@@ -25,7 +25,6 @@ fi
 # Make sure all the output dirs exist
 mkdir -p "$temp_dir"
 mkdir -p "$output_dir"
-mkdir -p "$syncnet_temp"
 
 # Make the report file empty
 rm -f $report_file
@@ -47,6 +46,11 @@ do
             echo "Skipping $filename because SyncNet report already exists"
         else
             echo "Processing $filename"
+
+            # Clean any files in syncnet temporary folder
+            rm -rf "$syncnet_temp"
+            mkdir -p "$syncnet_temp"
+
             clip_duration=59
             echo "Getting first $clip_duration seconds of video"
             # Get filename for the clip video
