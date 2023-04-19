@@ -3,6 +3,7 @@ input_videos
 output_videos
 tmp_syncnet
 tmp_videos
+syncnet_temp
 
 # Compiled source #
 ###################
