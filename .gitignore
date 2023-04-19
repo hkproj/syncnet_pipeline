@@ -1,3 +1,9 @@
+# Pipeline folders
+input_videos
+output_videos
+tmp_syncnet
+tmp_videos
+
 # Compiled source #
 ###################
 *.com
