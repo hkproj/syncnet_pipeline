@@ -68,7 +68,7 @@ do
             # Get the temporary filename for the video with audio in 16kHz
             temp_filename_25fps_16khz="$temp_dir/$filenameWithoutExtension-clip-25fps-16khz.mp4"
             # Run ffmpeg to resample the audio at 16kHz
-            ffmpeg -y -i "$temp_filename_25fps" -ar 16000 "$temp_filename_25fps_16khz"
+            ffmpeg -y -i "$temp_filename_25fps" -ar 16000 -ac 1 "$temp_filename_25fps_16khz"
 
             frame_size=224
             echo "Resize frame size to $frame_size by $frame_size"
