@@ -1,82 +1,82 @@
 SyncNet output for -4XVg57NjwM.mp4:
 AV offset: 	1 
-Min dist: 	10.547
-Confidence: 	2.568
+Min dist: 	10.593
+Confidence: 	2.548
 
 SyncNet output for 0Hsq909zQYE.mp4:
 AV offset: 	-3 
-Min dist: 	10.078
-Confidence: 	2.896
+Min dist: 	10.085
+Confidence: 	2.868
 
 SyncNet output for 1ULE81gYxmA.mp4:
 AV offset: 	1 
-Min dist: 	12.707
-Confidence: 	0.449
+Min dist: 	12.710
+Confidence: 	0.426
 
 SyncNet output for 1Wf9e4-v3aE.mp4:
 AV offset: 	-3 
-Min dist: 	10.693
-Confidence: 	0.619
+Min dist: 	10.851
+Confidence: 	0.622
 
 SyncNet output for 2rAFcXYPmeQ.mp4:
 AV offset: 	-3 
-Min dist: 	9.194
-Confidence: 	3.994
+Min dist: 	9.219
+Confidence: 	3.972
 
 SyncNet output for 88usrrJ_UjY.mp4:
 AV offset: 	-2 
-Min dist: 	12.944
-Confidence: 	0.248
+Min dist: 	13.029
+Confidence: 	0.228
 
 SyncNet output for C58taMCcnFA.mp4:
 AV offset: 	-3 
-Min dist: 	11.943
-Confidence: 	1.794
+Min dist: 	11.982
+Confidence: 	1.739
 
 SyncNet output for DbmeHqQuoeY.mp4:
 AV offset: 	-3 
-Min dist: 	13.317
-Confidence: 	0.746
+Min dist: 	13.407
+Confidence: 	0.737
 
 SyncNet output for DbvpUxTkUH4.mp4:
 AV offset: 	0 
-Min dist: 	10.955
-Confidence: 	2.666
+Min dist: 	10.992
+Confidence: 	2.673
 
 SyncNet output for FC1_j3zJt20.mp4:
 AV offset: 	-3 
-Min dist: 	13.816
-Confidence: 	0.509
+Min dist: 	13.808
+Confidence: 	0.512
 
 SyncNet output for H5u-zv0y8J4.mp4:
 AV offset: 	-3 
-Min dist: 	13.263
+Min dist: 	13.285
 Confidence: 	0.637
 
 SyncNet output for HdgcvNMYbpY.mp4:
 AV offset: 	-3 
-Min dist: 	12.216
-Confidence: 	0.620
+Min dist: 	12.284
+Confidence: 	0.622
 
 SyncNet output for HfyGwiepb1s.mp4:
-AV offset: 	-2 
-Min dist: 	13.100
-Confidence: 	0.607
+AV offset: 	-3 
+Min dist: 	13.107
+Confidence: 	0.579
 
 SyncNet output for HpAZRXr3Avw.mp4:
 AV offset: 	0 
-Min dist: 	11.217
-Confidence: 	2.010
+Min dist: 	11.274
+Confidence: 	2.002
 
 SyncNet output for Jb_VMX-XrI8.mp4:
 AV offset: 	-2 
-Min dist: 	8.650
-Confidence: 	5.908
+Min dist: 	8.672
+Confidence: 	5.913
 
 SyncNet output for NNe-1VO1yCA.mp4:
 AV offset: 	-1 
-Min dist: 	13.398
-Confidence: 	0.807
+Min dist: 	13.481
+Confidence: 	0.801
 
 SyncNet output for OznYAHlGFwQ.mp4:
 AV offset: 	-6 
@@ -85,111 +85,111 @@ Confidence: 	0.016
 
 SyncNet output for PYYBlUDbyR4.mp4:
 AV offset: 	-4 
-Min dist: 	12.047
-Confidence: 	2.862
+Min dist: 	12.049
+Confidence: 	2.886
 
 SyncNet output for SrYwvj527dg.mp4:
 AV offset: 	-3 
-Min dist: 	10.192
-Confidence: 	1.135
+Min dist: 	10.257
+Confidence: 	1.128
 
 SyncNet output for TCNdKOAxVS0.mp4:
 AV offset: 	-12 
-Min dist: 	13.172
-Confidence: 	0.118
+Min dist: 	13.198
+Confidence: 	0.113
 
 SyncNet output for W_RKdq3xKK8.mp4:
 AV offset: 	-2 
-Min dist: 	12.097
-Confidence: 	0.801
+Min dist: 	12.191
+Confidence: 	0.800
 
 SyncNet output for WmhC_HiIj9A.mp4:
 AV offset: 	-3 
-Min dist: 	12.542
-Confidence: 	0.519
+Min dist: 	12.599
+Confidence: 	0.495
 
 SyncNet output for X7X3faMdjdI.mp4:
 AV offset: 	-3 
-Min dist: 	14.636
-Confidence: 	0.207
+Min dist: 	14.663
+Confidence: 	0.206
 
 SyncNet output for XVYpbDl6tHU.mp4:
 AV offset: 	-2 
-Min dist: 	13.203
-Confidence: 	0.531
+Min dist: 	13.263
+Confidence: 	0.509
 
 SyncNet output for bxBtrAgI4iM.mp4:
 AV offset: 	-13 
-Min dist: 	12.242
-Confidence: 	0.147
+Min dist: 	12.315
+Confidence: 	0.139
 
 SyncNet output for eXudobte9Mo.mp4:
 AV offset: 	-1 
-Min dist: 	10.133
-Confidence: 	2.506
+Min dist: 	10.204
+Confidence: 	2.450
 
 SyncNet output for fQThxKj5mtU.mp4:
 AV offset: 	-2 
-Min dist: 	13.466
-Confidence: 	0.149
+Min dist: 	13.518
+Confidence: 	0.143
 
 SyncNet output for hQ6rImHJy80.mp4:
 AV offset: 	-2 
-Min dist: 	13.326
-Confidence: 	0.363
+Min dist: 	13.400
+Confidence: 	0.353
 
 SyncNet output for iqBOfND7BZY.mp4:
 AV offset: 	0 
-Min dist: 	12.013
-Confidence: 	1.782
+Min dist: 	12.049
+Confidence: 	1.754
 
 SyncNet output for kZtgX9jLuSg.mp4:
 AV offset: 	-2 
-Min dist: 	11.796
-Confidence: 	3.222
+Min dist: 	11.835
+Confidence: 	3.178
 
 SyncNet output for kpsgdmspOM8.mp4:
 AV offset: 	-1 
-Min dist: 	10.107
-Confidence: 	1.855
+Min dist: 	10.178
+Confidence: 	1.823
 
 SyncNet output for pVFiRhxFc2U.mp4:
 AV offset: 	-3 
-Min dist: 	9.918
-Confidence: 	3.697
+Min dist: 	9.983
+Confidence: 	3.710
 
 SyncNet output for ppJdkVMflx8.mp4:
 AV offset: 	-2 
-Min dist: 	12.347
-Confidence: 	0.515
+Min dist: 	12.360
+Confidence: 	0.503
 
 SyncNet output for rwPdr-jNRDA.mp4:
 AV offset: 	15 
-Min dist: 	13.000
+Min dist: 	13.099
 Confidence: 	0.158
 
 SyncNet output for t1YgUYbMm0M.mp4:
 AV offset: 	-2 
-Min dist: 	9.846
-Confidence: 	4.302
+Min dist: 	9.840
+Confidence: 	4.287
 
 SyncNet output for trPGQle76so.mp4:
 AV offset: 	0 
-Min dist: 	8.440
-Confidence: 	5.728
+Min dist: 	8.414
+Confidence: 	5.777
 
 SyncNet output for vUaBmHw2pAo.mp4:
 AV offset: 	0 
-Min dist: 	9.718
-Confidence: 	2.595
+Min dist: 	9.716
+Confidence: 	2.589
 
 SyncNet output for x8_3HQ6fvfo.mp4:
 AV offset: 	-15 
-Min dist: 	13.217
-Confidence: 	0.191
+Min dist: 	13.275
+Confidence: 	0.197
 
 SyncNet output for zH_YIUBwXD0.mp4:
 AV offset: 	-3 
-Min dist: 	12.287
-Confidence: 	1.846
+Min dist: 	12.320
+Confidence: 	1.830
 
