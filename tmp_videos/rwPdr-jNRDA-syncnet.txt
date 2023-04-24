@@ -1,8 +1,55 @@
-Model syncnet/data/syncnet_v2.model loaded.
-WARNING: Audio (59.0080s) and video (59.0400s) lengths are different.
-Compute time 5.941 sec.
-Framewise conf: 
-[ 3.577  3.577  3.577 ... -0.041 -0.007  0.000]
+SyncNet output for rwPdr-jNRDA-clip-000.mp4:
 AV offset: 	15 
-Min dist: 	13.099
-Confidence: 	0.158
+Min dist: 	13.104
+Confidence: 	0.113
+
+SyncNet output for rwPdr-jNRDA-clip-001.mp4:
+AV offset: 	-1 
+Min dist: 	12.898
+Confidence: 	0.270
+
+SyncNet output for rwPdr-jNRDA-clip-002.mp4:
+AV offset: 	-1 
+Min dist: 	13.490
+Confidence: 	0.096
+
+SyncNet output for rwPdr-jNRDA-clip-003.mp4:
+AV offset: 	-12 
+Min dist: 	13.968
+Confidence: 	0.095
+
+SyncNet output for rwPdr-jNRDA-clip-004.mp4:
+AV offset: 	-11 
+Min dist: 	13.559
+Confidence: 	0.209
+
+SyncNet output for rwPdr-jNRDA-clip-005.mp4:
+AV offset: 	-1 
+Min dist: 	13.489
+Confidence: 	0.242
+
+SyncNet output for rwPdr-jNRDA-clip-006.mp4:
+AV offset: 	-1 
+Min dist: 	13.665
+Confidence: 	0.156
+
+SyncNet output for rwPdr-jNRDA-clip-007.mp4:
+AV offset: 	-1 
+Min dist: 	13.456
+Confidence: 	0.334
+
+SyncNet output for rwPdr-jNRDA-clip-008.mp4:
+AV offset: 	-1 
+Min dist: 	13.391
+Confidence: 	0.059
+
+SyncNet output for rwPdr-jNRDA-clip-009.mp4:
+AV offset: 	-1 
+Min dist: 	13.080
+Confidence: 	0.354
+
+SyncNet output for rwPdr-jNRDA-clip-010.mp4:
+AV offset: 	-1 
+Min dist: 	13.009
+Confidence: 	0.289
+

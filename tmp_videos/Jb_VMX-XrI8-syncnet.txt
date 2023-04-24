@@ -1,8 +1,30 @@
-Model syncnet/data/syncnet_v2.model loaded.
-WARNING: Audio (59.0080s) and video (59.0000s) lengths are different.
-Compute time 5.701 sec.
-Framewise conf: 
-[ 4.756  6.062  6.221 ...  4.274  4.242  3.347]
+SyncNet output for Jb_VMX-XrI8-clip-000.mp4:
 AV offset: 	-2 
-Min dist: 	8.672
-Confidence: 	5.913
+Min dist: 	8.635
+Confidence: 	5.968
+
+SyncNet output for Jb_VMX-XrI8-clip-001.mp4:
+AV offset: 	-2 
+Min dist: 	8.764
+Confidence: 	5.620
+
+SyncNet output for Jb_VMX-XrI8-clip-002.mp4:
+AV offset: 	-2 
+Min dist: 	8.027
+Confidence: 	6.679
+
+SyncNet output for Jb_VMX-XrI8-clip-003.mp4:
+AV offset: 	-2 
+Min dist: 	8.419
+Confidence: 	5.933
+
+SyncNet output for Jb_VMX-XrI8-clip-004.mp4:
+AV offset: 	-2 
+Min dist: 	8.431
+Confidence: 	6.077
+
+SyncNet output for Jb_VMX-XrI8-clip-005.mp4:
+AV offset: 	-2 
+Min dist: 	8.486
+Confidence: 	5.275
+

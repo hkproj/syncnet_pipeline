@@ -1,8 +1,85 @@
-Model syncnet/data/syncnet_v2.model loaded.
-WARNING: Audio (59.0080s) and video (59.0400s) lengths are different.
-Compute time 5.492 sec.
-Framewise conf: 
-[ 0.000  0.000  0.235 ...  2.673  2.673  2.673]
+SyncNet output for bxBtrAgI4iM-clip-000.mp4:
 AV offset: 	-13 
-Min dist: 	12.315
-Confidence: 	0.139
+Min dist: 	12.410
+Confidence: 	0.140
+
+SyncNet output for bxBtrAgI4iM-clip-001.mp4:
+AV offset: 	-15 
+Min dist: 	14.465
+Confidence: 	0.103
+
+SyncNet output for bxBtrAgI4iM-clip-002.mp4:
+AV offset: 	-9 
+Min dist: 	14.343
+Confidence: 	0.147
+
+SyncNet output for bxBtrAgI4iM-clip-003.mp4:
+AV offset: 	-3 
+Min dist: 	14.288
+Confidence: 	0.052
+
+SyncNet output for bxBtrAgI4iM-clip-004.mp4:
+AV offset: 	-3 
+Min dist: 	15.339
+Confidence: 	0.115
+
+SyncNet output for bxBtrAgI4iM-clip-005.mp4:
+AV offset: 	6 
+Min dist: 	13.825
+Confidence: 	0.106
+
+SyncNet output for bxBtrAgI4iM-clip-006.mp4:
+AV offset: 	-8 
+Min dist: 	14.606
+Confidence: 	0.088
+
+SyncNet output for bxBtrAgI4iM-clip-007.mp4:
+AV offset: 	-2 
+Min dist: 	15.573
+Confidence: 	0.063
+
+SyncNet output for bxBtrAgI4iM-clip-008.mp4:
+AV offset: 	9 
+Min dist: 	14.842
+Confidence: 	0.105
+
+SyncNet output for bxBtrAgI4iM-clip-009.mp4:
+AV offset: 	-3 
+Min dist: 	14.114
+Confidence: 	0.081
+
+SyncNet output for bxBtrAgI4iM-clip-010.mp4:
+AV offset: 	-2 
+Min dist: 	14.924
+Confidence: 	0.097
+
+SyncNet output for bxBtrAgI4iM-clip-011.mp4:
+AV offset: 	15 
+Min dist: 	14.664
+Confidence: 	0.160
+
+SyncNet output for bxBtrAgI4iM-clip-012.mp4:
+AV offset: 	11 
+Min dist: 	14.954
+Confidence: 	0.153
+
+SyncNet output for bxBtrAgI4iM-clip-013.mp4:
+AV offset: 	-2 
+Min dist: 	15.350
+Confidence: 	0.085
+
+SyncNet output for bxBtrAgI4iM-clip-014.mp4:
+AV offset: 	-14 
+Min dist: 	14.980
+Confidence: 	0.104
+
+SyncNet output for bxBtrAgI4iM-clip-015.mp4:
+AV offset: 	-8 
+Min dist: 	14.486
+Confidence: 	0.078
+
+SyncNet output for bxBtrAgI4iM-clip-016.mp4:
+AV offset: 	-1 
+Min dist: 	11.529
+Confidence: 	0.662
+

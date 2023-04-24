@@ -1,8 +1,70 @@
-Model syncnet/data/syncnet_v2.model loaded.
-WARNING: Audio (59.0080s) and video (59.0000s) lengths are different.
-Compute time 6.159 sec.
-Framewise conf: 
-[ 4.295  4.352  4.352 ...  0.000  0.000  0.000]
+SyncNet output for C58taMCcnFA-clip-000.mp4:
 AV offset: 	-3 
-Min dist: 	11.982
-Confidence: 	1.739
+Min dist: 	12.000
+Confidence: 	1.748
+
+SyncNet output for C58taMCcnFA-clip-001.mp4:
+AV offset: 	-3 
+Min dist: 	11.837
+Confidence: 	1.055
+
+SyncNet output for C58taMCcnFA-clip-002.mp4:
+AV offset: 	-3 
+Min dist: 	11.704
+Confidence: 	1.450
+
+SyncNet output for C58taMCcnFA-clip-003.mp4:
+AV offset: 	-3 
+Min dist: 	12.286
+Confidence: 	1.078
+
+SyncNet output for C58taMCcnFA-clip-004.mp4:
+AV offset: 	-3 
+Min dist: 	11.762
+Confidence: 	1.151
+
+SyncNet output for C58taMCcnFA-clip-005.mp4:
+AV offset: 	-3 
+Min dist: 	11.775
+Confidence: 	1.257
+
+SyncNet output for C58taMCcnFA-clip-006.mp4:
+AV offset: 	-3 
+Min dist: 	12.093
+Confidence: 	1.195
+
+SyncNet output for C58taMCcnFA-clip-007.mp4:
+AV offset: 	-3 
+Min dist: 	12.566
+Confidence: 	1.084
+
+SyncNet output for C58taMCcnFA-clip-008.mp4:
+AV offset: 	-3 
+Min dist: 	12.258
+Confidence: 	1.096
+
+SyncNet output for C58taMCcnFA-clip-009.mp4:
+AV offset: 	-3 
+Min dist: 	12.657
+Confidence: 	1.152
+
+SyncNet output for C58taMCcnFA-clip-010.mp4:
+AV offset: 	-3 
+Min dist: 	12.801
+Confidence: 	0.726
+
+SyncNet output for C58taMCcnFA-clip-011.mp4:
+AV offset: 	-3 
+Min dist: 	11.916
+Confidence: 	1.279
+
+SyncNet output for C58taMCcnFA-clip-012.mp4:
+AV offset: 	-3 
+Min dist: 	11.185
+Confidence: 	1.379
+
+SyncNet output for C58taMCcnFA-clip-013.mp4:
+AV offset: 	-3 
+Min dist: 	10.281
+Confidence: 	1.402
+

@@ -1,8 +1,50 @@
-Model syncnet/data/syncnet_v2.model loaded.
-WARNING: Audio (59.0080s) and video (59.0000s) lengths are different.
-Compute time 5.563 sec.
-Framewise conf: 
-[ 0.000  0.000  0.000 ... -3.340  0.000  0.000]
+SyncNet output for fQThxKj5mtU-clip-000.mp4:
 AV offset: 	-2 
-Min dist: 	13.518
-Confidence: 	0.143
+Min dist: 	13.495
+Confidence: 	0.163
+
+SyncNet output for fQThxKj5mtU-clip-001.mp4:
+AV offset: 	-1 
+Min dist: 	13.248
+Confidence: 	0.466
+
+SyncNet output for fQThxKj5mtU-clip-002.mp4:
+AV offset: 	-1 
+Min dist: 	13.664
+Confidence: 	0.371
+
+SyncNet output for fQThxKj5mtU-clip-003.mp4:
+AV offset: 	-1 
+Min dist: 	13.140
+Confidence: 	0.277
+
+SyncNet output for fQThxKj5mtU-clip-004.mp4:
+AV offset: 	-2 
+Min dist: 	13.209
+Confidence: 	0.284
+
+SyncNet output for fQThxKj5mtU-clip-005.mp4:
+AV offset: 	-2 
+Min dist: 	13.727
+Confidence: 	0.261
+
+SyncNet output for fQThxKj5mtU-clip-006.mp4:
+AV offset: 	-1 
+Min dist: 	13.372
+Confidence: 	0.326
+
+SyncNet output for fQThxKj5mtU-clip-007.mp4:
+AV offset: 	-1 
+Min dist: 	13.231
+Confidence: 	0.422
+
+SyncNet output for fQThxKj5mtU-clip-008.mp4:
+AV offset: 	-1 
+Min dist: 	13.455
+Confidence: 	0.404
+
+SyncNet output for fQThxKj5mtU-clip-009.mp4:
+AV offset: 	-12 
+Min dist: 	11.972
+Confidence: 	0.257
+

@@ -1,0 +1,7 @@
+Model syncnet/data/syncnet_v2.model loaded.
+Compute time 6.803 sec.
+Framewise conf: 
+[ 3.109  7.115  7.222 ...  3.296  3.296  2.683]
+AV offset: 	-2 
+Min dist: 	8.419
+Confidence: 	5.933

@@ -1,8 +1,55 @@
-Model syncnet/data/syncnet_v2.model loaded.
-WARNING: Audio (59.0080s) and video (59.0000s) lengths are different.
-Compute time 5.833 sec.
-Framewise conf: 
-[ 0.410  3.128  4.360 ...  4.277  3.665  1.380]
+SyncNet output for trPGQle76so-clip-000.mp4:
 AV offset: 	0 
-Min dist: 	8.414
-Confidence: 	5.777
+Min dist: 	8.438
+Confidence: 	5.757
+
+SyncNet output for trPGQle76so-clip-001.mp4:
+AV offset: 	0 
+Min dist: 	9.089
+Confidence: 	4.666
+
+SyncNet output for trPGQle76so-clip-002.mp4:
+AV offset: 	0 
+Min dist: 	8.664
+Confidence: 	5.317
+
+SyncNet output for trPGQle76so-clip-003.mp4:
+AV offset: 	0 
+Min dist: 	8.741
+Confidence: 	5.377
+
+SyncNet output for trPGQle76so-clip-004.mp4:
+AV offset: 	0 
+Min dist: 	8.972
+Confidence: 	5.139
+
+SyncNet output for trPGQle76so-clip-005.mp4:
+AV offset: 	0 
+Min dist: 	8.751
+Confidence: 	5.172
+
+SyncNet output for trPGQle76so-clip-006.mp4:
+AV offset: 	0 
+Min dist: 	8.736
+Confidence: 	4.819
+
+SyncNet output for trPGQle76so-clip-007.mp4:
+AV offset: 	0 
+Min dist: 	8.555
+Confidence: 	5.707
+
+SyncNet output for trPGQle76so-clip-008.mp4:
+AV offset: 	0 
+Min dist: 	8.881
+Confidence: 	5.435
+
+SyncNet output for trPGQle76so-clip-009.mp4:
+AV offset: 	0 
+Min dist: 	8.642
+Confidence: 	5.766
+
+SyncNet output for trPGQle76so-clip-010.mp4:
+AV offset: 	0 
+Min dist: 	8.686
+Confidence: 	2.862
+

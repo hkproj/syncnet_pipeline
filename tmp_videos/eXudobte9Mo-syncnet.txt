@@ -1,8 +1,15 @@
-Model syncnet/data/syncnet_v2.model loaded.
-WARNING: Audio (59.0080s) and video (59.0000s) lengths are different.
-Compute time 5.481 sec.
-Framewise conf: 
-[ 0.000  0.000  0.790 ...  5.071  5.013  3.574]
+SyncNet output for eXudobte9Mo-clip-000.mp4:
 AV offset: 	-1 
-Min dist: 	10.204
-Confidence: 	2.450
+Min dist: 	10.084
+Confidence: 	2.545
+
+SyncNet output for eXudobte9Mo-clip-001.mp4:
+AV offset: 	-1 
+Min dist: 	10.709
+Confidence: 	2.953
+
+SyncNet output for eXudobte9Mo-clip-002.mp4:
+AV offset: 	-1 
+Min dist: 	10.200
+Confidence: 	2.466
+

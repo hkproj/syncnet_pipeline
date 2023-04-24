@@ -1,0 +1,2596 @@
+SyncNet output for 0Hsq909zQYE.mp4:
+=========================================================
+SyncNet output for 0Hsq909zQYE-clip-000.mp4:
+AV offset: 	-3 
+Min dist: 	10.080
+Confidence: 	2.887
+
+SyncNet output for 0Hsq909zQYE-clip-001.mp4:
+AV offset: 	-3 
+Min dist: 	9.531
+Confidence: 	4.232
+
+SyncNet output for 0Hsq909zQYE-clip-002.mp4:
+AV offset: 	-3 
+Min dist: 	12.104
+Confidence: 	1.740
+
+SyncNet output for 0Hsq909zQYE-clip-003.mp4:
+AV offset: 	-2 
+Min dist: 	12.947
+Confidence: 	0.426
+
+SyncNet output for 0Hsq909zQYE-clip-004.mp4:
+AV offset: 	-3 
+Min dist: 	13.018
+Confidence: 	0.415
+
+SyncNet output for 0Hsq909zQYE-clip-005.mp4:
+AV offset: 	-3 
+Min dist: 	12.862
+Confidence: 	0.427
+
+SyncNet output for 0Hsq909zQYE-clip-006.mp4:
+AV offset: 	-2 
+Min dist: 	12.717
+Confidence: 	0.477
+
+SyncNet output for 0Hsq909zQYE-clip-007.mp4:
+AV offset: 	-3 
+Min dist: 	10.354
+Confidence: 	2.498
+
+SyncNet output for 0Hsq909zQYE-clip-008.mp4:
+AV offset: 	-3 
+Min dist: 	9.756
+Confidence: 	3.968
+
+SyncNet output for 0Hsq909zQYE-clip-009.mp4:
+AV offset: 	-3 
+Min dist: 	9.378
+Confidence: 	4.499
+
+SyncNet output for 0Hsq909zQYE-clip-010.mp4:
+AV offset: 	-15 
+Min dist: 	8.869
+Confidence: 	0.283
+
+=========================================================
+
+SyncNet output for 1ULE81gYxmA.mp4:
+=========================================================
+SyncNet output for 1ULE81gYxmA-clip-000.mp4:
+AV offset: 	1 
+Min dist: 	12.756
+Confidence: 	0.435
+
+SyncNet output for 1ULE81gYxmA-clip-001.mp4:
+AV offset: 	1 
+Min dist: 	13.412
+Confidence: 	0.351
+
+SyncNet output for 1ULE81gYxmA-clip-002.mp4:
+AV offset: 	9 
+Min dist: 	13.378
+Confidence: 	0.179
+
+SyncNet output for 1ULE81gYxmA-clip-003.mp4:
+AV offset: 	1 
+Min dist: 	13.467
+Confidence: 	0.322
+
+SyncNet output for 1ULE81gYxmA-clip-004.mp4:
+AV offset: 	1 
+Min dist: 	12.737
+Confidence: 	0.289
+
+=========================================================
+
+SyncNet output for 1Wf9e4-v3aE.mp4:
+=========================================================
+SyncNet output for 1Wf9e4-v3aE-clip-000.mp4:
+AV offset: 	-3 
+Min dist: 	10.903
+Confidence: 	0.602
+
+SyncNet output for 1Wf9e4-v3aE-clip-001.mp4:
+AV offset: 	-3 
+Min dist: 	10.638
+Confidence: 	0.501
+
+SyncNet output for 1Wf9e4-v3aE-clip-002.mp4:
+AV offset: 	-3 
+Min dist: 	10.451
+Confidence: 	0.328
+
+SyncNet output for 1Wf9e4-v3aE-clip-003.mp4:
+AV offset: 	-3 
+Min dist: 	9.772
+Confidence: 	0.496
+
+SyncNet output for 1Wf9e4-v3aE-clip-004.mp4:
+AV offset: 	-2 
+Min dist: 	9.864
+Confidence: 	0.246
+
+SyncNet output for 1Wf9e4-v3aE-clip-005.mp4:
+AV offset: 	-3 
+Min dist: 	10.048
+Confidence: 	0.379
+
+SyncNet output for 1Wf9e4-v3aE-clip-006.mp4:
+AV offset: 	-3 
+Min dist: 	10.180
+Confidence: 	0.506
+
+SyncNet output for 1Wf9e4-v3aE-clip-007.mp4:
+AV offset: 	-2 
+Min dist: 	10.499
+Confidence: 	0.473
+
+SyncNet output for 1Wf9e4-v3aE-clip-008.mp4:
+AV offset: 	-2 
+Min dist: 	10.444
+Confidence: 	0.437
+
+SyncNet output for 1Wf9e4-v3aE-clip-009.mp4:
+AV offset: 	-3 
+Min dist: 	10.337
+Confidence: 	0.301
+
+SyncNet output for 1Wf9e4-v3aE-clip-010.mp4:
+AV offset: 	-3 
+Min dist: 	10.742
+Confidence: 	0.207
+
+SyncNet output for 1Wf9e4-v3aE-clip-011.mp4:
+AV offset: 	-2 
+Min dist: 	10.978
+Confidence: 	0.411
+
+SyncNet output for 1Wf9e4-v3aE-clip-012.mp4:
+AV offset: 	-3 
+Min dist: 	10.224
+Confidence: 	0.363
+
+SyncNet output for 1Wf9e4-v3aE-clip-013.mp4:
+AV offset: 	-3 
+Min dist: 	11.049
+Confidence: 	0.232
+
+SyncNet output for 1Wf9e4-v3aE-clip-014.mp4:
+AV offset: 	-3 
+Min dist: 	10.673
+Confidence: 	0.511
+
+SyncNet output for 1Wf9e4-v3aE-clip-015.mp4:
+AV offset: 	-2 
+Min dist: 	9.935
+Confidence: 	0.390
+
+SyncNet output for 1Wf9e4-v3aE-clip-016.mp4:
+AV offset: 	-4 
+Min dist: 	10.006
+Confidence: 	0.375
+
+SyncNet output for 1Wf9e4-v3aE-clip-017.mp4:
+AV offset: 	-6 
+Min dist: 	9.686
+Confidence: 	0.116
+
+SyncNet output for 1Wf9e4-v3aE-clip-018.mp4:
+AV offset: 	-2 
+Min dist: 	10.076
+Confidence: 	0.249
+
+SyncNet output for 1Wf9e4-v3aE-clip-019.mp4:
+AV offset: 	-2 
+Min dist: 	11.458
+Confidence: 	0.419
+
+=========================================================
+
+SyncNet output for 2rAFcXYPmeQ.mp4:
+=========================================================
+SyncNet output for 2rAFcXYPmeQ-clip-000.mp4:
+AV offset: 	-3 
+Min dist: 	9.149
+Confidence: 	4.084
+
+SyncNet output for 2rAFcXYPmeQ-clip-001.mp4:
+AV offset: 	-3 
+Min dist: 	9.453
+Confidence: 	4.194
+
+SyncNet output for 2rAFcXYPmeQ-clip-002.mp4:
+AV offset: 	-3 
+Min dist: 	9.553
+Confidence: 	4.064
+
+SyncNet output for 2rAFcXYPmeQ-clip-003.mp4:
+AV offset: 	-3 
+Min dist: 	9.484
+Confidence: 	3.912
+
+SyncNet output for 2rAFcXYPmeQ-clip-004.mp4:
+AV offset: 	-3 
+Min dist: 	9.439
+Confidence: 	4.131
+
+SyncNet output for 2rAFcXYPmeQ-clip-005.mp4:
+AV offset: 	-3 
+Min dist: 	9.233
+Confidence: 	4.233
+
+SyncNet output for 2rAFcXYPmeQ-clip-006.mp4:
+AV offset: 	-3 
+Min dist: 	9.159
+Confidence: 	4.655
+
+SyncNet output for 2rAFcXYPmeQ-clip-007.mp4:
+AV offset: 	-3 
+Min dist: 	8.943
+Confidence: 	4.879
+
+SyncNet output for 2rAFcXYPmeQ-clip-008.mp4:
+AV offset: 	-3 
+Min dist: 	9.206
+Confidence: 	4.267
+
+SyncNet output for 2rAFcXYPmeQ-clip-009.mp4:
+AV offset: 	-3 
+Min dist: 	8.691
+Confidence: 	2.531
+
+=========================================================
+
+SyncNet output for 88usrrJ_UjY.mp4:
+=========================================================
+SyncNet output for 88usrrJ_UjY-clip-000.mp4:
+AV offset: 	-2 
+Min dist: 	12.954
+Confidence: 	0.235
+
+SyncNet output for 88usrrJ_UjY-clip-001.mp4:
+AV offset: 	3 
+Min dist: 	13.113
+Confidence: 	0.150
+
+SyncNet output for 88usrrJ_UjY-clip-002.mp4:
+AV offset: 	-2 
+Min dist: 	12.977
+Confidence: 	0.195
+
+SyncNet output for 88usrrJ_UjY-clip-003.mp4:
+AV offset: 	-2 
+Min dist: 	12.396
+Confidence: 	0.330
+
+SyncNet output for 88usrrJ_UjY-clip-004.mp4:
+AV offset: 	-2 
+Min dist: 	12.793
+Confidence: 	0.139
+
+SyncNet output for 88usrrJ_UjY-clip-005.mp4:
+AV offset: 	-1 
+Min dist: 	13.861
+Confidence: 	0.104
+
+SyncNet output for 88usrrJ_UjY-clip-006.mp4:
+AV offset: 	0 
+Min dist: 	11.134
+Confidence: 	1.984
+
+SyncNet output for 88usrrJ_UjY-clip-007.mp4:
+AV offset: 	0 
+Min dist: 	11.261
+Confidence: 	1.217
+
+SyncNet output for 88usrrJ_UjY-clip-008.mp4:
+AV offset: 	0 
+Min dist: 	10.646
+Confidence: 	2.068
+
+SyncNet output for 88usrrJ_UjY-clip-009.mp4:
+AV offset: 	0 
+Min dist: 	11.075
+Confidence: 	2.080
+
+SyncNet output for 88usrrJ_UjY-clip-010.mp4:
+AV offset: 	-1 
+Min dist: 	11.207
+Confidence: 	1.418
+
+SyncNet output for 88usrrJ_UjY-clip-011.mp4:
+AV offset: 	0 
+Min dist: 	10.329
+Confidence: 	1.949
+
+=========================================================
+
+SyncNet output for C58taMCcnFA.mp4:
+=========================================================
+SyncNet output for C58taMCcnFA-clip-000.mp4:
+AV offset: 	-3 
+Min dist: 	12.000
+Confidence: 	1.748
+
+SyncNet output for C58taMCcnFA-clip-001.mp4:
+AV offset: 	-3 
+Min dist: 	11.837
+Confidence: 	1.055
+
+SyncNet output for C58taMCcnFA-clip-002.mp4:
+AV offset: 	-3 
+Min dist: 	11.704
+Confidence: 	1.450
+
+SyncNet output for C58taMCcnFA-clip-003.mp4:
+AV offset: 	-3 
+Min dist: 	12.286
+Confidence: 	1.078
+
+SyncNet output for C58taMCcnFA-clip-004.mp4:
+AV offset: 	-3 
+Min dist: 	11.762
+Confidence: 	1.151
+
+SyncNet output for C58taMCcnFA-clip-005.mp4:
+AV offset: 	-3 
+Min dist: 	11.775
+Confidence: 	1.257
+
+SyncNet output for C58taMCcnFA-clip-006.mp4:
+AV offset: 	-3 
+Min dist: 	12.093
+Confidence: 	1.195
+
+SyncNet output for C58taMCcnFA-clip-007.mp4:
+AV offset: 	-3 
+Min dist: 	12.566
+Confidence: 	1.084
+
+SyncNet output for C58taMCcnFA-clip-008.mp4:
+AV offset: 	-3 
+Min dist: 	12.258
+Confidence: 	1.096
+
+SyncNet output for C58taMCcnFA-clip-009.mp4:
+AV offset: 	-3 
+Min dist: 	12.657
+Confidence: 	1.152
+
+SyncNet output for C58taMCcnFA-clip-010.mp4:
+AV offset: 	-3 
+Min dist: 	12.801
+Confidence: 	0.726
+
+SyncNet output for C58taMCcnFA-clip-011.mp4:
+AV offset: 	-3 
+Min dist: 	11.916
+Confidence: 	1.279
+
+SyncNet output for C58taMCcnFA-clip-012.mp4:
+AV offset: 	-3 
+Min dist: 	11.185
+Confidence: 	1.379
+
+SyncNet output for C58taMCcnFA-clip-013.mp4:
+AV offset: 	-3 
+Min dist: 	10.281
+Confidence: 	1.402
+
+=========================================================
+
+SyncNet output for DbmeHqQuoeY.mp4:
+=========================================================
+SyncNet output for DbmeHqQuoeY-clip-000.mp4:
+AV offset: 	-3 
+Min dist: 	13.452
+Confidence: 	0.737
+
+SyncNet output for DbmeHqQuoeY-clip-001.mp4:
+AV offset: 	-3 
+Min dist: 	13.123
+Confidence: 	0.673
+
+SyncNet output for DbmeHqQuoeY-clip-002.mp4:
+AV offset: 	-3 
+Min dist: 	13.445
+Confidence: 	0.742
+
+SyncNet output for DbmeHqQuoeY-clip-003.mp4:
+AV offset: 	-3 
+Min dist: 	13.545
+Confidence: 	0.585
+
+SyncNet output for DbmeHqQuoeY-clip-004.mp4:
+AV offset: 	-3 
+Min dist: 	13.853
+Confidence: 	0.646
+
+SyncNet output for DbmeHqQuoeY-clip-005.mp4:
+AV offset: 	-3 
+Min dist: 	13.602
+Confidence: 	0.720
+
+SyncNet output for DbmeHqQuoeY-clip-006.mp4:
+AV offset: 	-3 
+Min dist: 	13.874
+Confidence: 	0.728
+
+SyncNet output for DbmeHqQuoeY-clip-007.mp4:
+AV offset: 	-3 
+Min dist: 	13.389
+Confidence: 	0.877
+
+SyncNet output for DbmeHqQuoeY-clip-008.mp4:
+AV offset: 	-3 
+Min dist: 	13.465
+Confidence: 	0.744
+
+SyncNet output for DbmeHqQuoeY-clip-009.mp4:
+AV offset: 	-3 
+Min dist: 	13.979
+Confidence: 	0.681
+
+SyncNet output for DbmeHqQuoeY-clip-010.mp4:
+AV offset: 	-3 
+Min dist: 	13.403
+Confidence: 	0.970
+
+SyncNet output for DbmeHqQuoeY-clip-011.mp4:
+AV offset: 	-3 
+Min dist: 	13.307
+Confidence: 	0.891
+
+SyncNet output for DbmeHqQuoeY-clip-012.mp4:
+AV offset: 	-3 
+Min dist: 	13.339
+Confidence: 	0.715
+
+SyncNet output for DbmeHqQuoeY-clip-013.mp4:
+AV offset: 	-3 
+Min dist: 	13.233
+Confidence: 	0.687
+
+SyncNet output for DbmeHqQuoeY-clip-014.mp4:
+AV offset: 	-3 
+Min dist: 	12.963
+Confidence: 	0.774
+
+SyncNet output for DbmeHqQuoeY-clip-015.mp4:
+AV offset: 	-3 
+Min dist: 	12.374
+Confidence: 	0.897
+
+SyncNet output for DbmeHqQuoeY-clip-016.mp4:
+AV offset: 	-3 
+Min dist: 	13.059
+Confidence: 	0.928
+
+SyncNet output for DbmeHqQuoeY-clip-017.mp4:
+AV offset: 	-3 
+Min dist: 	12.452
+Confidence: 	1.176
+
+SyncNet output for DbmeHqQuoeY-clip-018.mp4:
+AV offset: 	-3 
+Min dist: 	13.289
+Confidence: 	0.962
+
+SyncNet output for DbmeHqQuoeY-clip-019.mp4:
+AV offset: 	-3 
+Min dist: 	13.304
+Confidence: 	0.786
+
+SyncNet output for DbmeHqQuoeY-clip-020.mp4:
+AV offset: 	-3 
+Min dist: 	13.012
+Confidence: 	0.814
+
+SyncNet output for DbmeHqQuoeY-clip-021.mp4:
+AV offset: 	-3 
+Min dist: 	12.890
+Confidence: 	0.835
+
+=========================================================
+
+SyncNet output for DbvpUxTkUH4.mp4:
+=========================================================
+SyncNet output for DbvpUxTkUH4-clip-000.mp4:
+AV offset: 	0 
+Min dist: 	11.110
+Confidence: 	2.558
+
+SyncNet output for DbvpUxTkUH4-clip-001.mp4:
+AV offset: 	0 
+Min dist: 	12.062
+Confidence: 	1.282
+
+SyncNet output for DbvpUxTkUH4-clip-002.mp4:
+AV offset: 	0 
+Min dist: 	11.602
+Confidence: 	1.011
+
+SyncNet output for DbvpUxTkUH4-clip-003.mp4:
+AV offset: 	0 
+Min dist: 	11.282
+Confidence: 	1.686
+
+SyncNet output for DbvpUxTkUH4-clip-004.mp4:
+AV offset: 	0 
+Min dist: 	10.640
+Confidence: 	1.651
+
+SyncNet output for DbvpUxTkUH4-clip-005.mp4:
+AV offset: 	0 
+Min dist: 	11.446
+Confidence: 	1.369
+
+SyncNet output for DbvpUxTkUH4-clip-006.mp4:
+AV offset: 	0 
+Min dist: 	10.852
+Confidence: 	2.096
+
+SyncNet output for DbvpUxTkUH4-clip-007.mp4:
+AV offset: 	1 
+Min dist: 	10.702
+Confidence: 	2.496
+
+SyncNet output for DbvpUxTkUH4-clip-008.mp4:
+AV offset: 	0 
+Min dist: 	10.854
+Confidence: 	2.038
+
+SyncNet output for DbvpUxTkUH4-clip-009.mp4:
+AV offset: 	0 
+Min dist: 	11.471
+Confidence: 	1.470
+
+SyncNet output for DbvpUxTkUH4-clip-010.mp4:
+AV offset: 	0 
+Min dist: 	11.852
+Confidence: 	1.184
+
+SyncNet output for DbvpUxTkUH4-clip-011.mp4:
+AV offset: 	0 
+Min dist: 	11.512
+Confidence: 	1.565
+
+=========================================================
+
+SyncNet output for FC1_j3zJt20.mp4:
+=========================================================
+SyncNet output for FC1_j3zJt20-clip-000.mp4:
+AV offset: 	-3 
+Min dist: 	13.761
+Confidence: 	0.587
+
+SyncNet output for FC1_j3zJt20-clip-001.mp4:
+AV offset: 	-3 
+Min dist: 	12.762
+Confidence: 	1.275
+
+SyncNet output for FC1_j3zJt20-clip-002.mp4:
+AV offset: 	-3 
+Min dist: 	13.837
+Confidence: 	0.306
+
+SyncNet output for FC1_j3zJt20-clip-003.mp4:
+AV offset: 	-14 
+Min dist: 	14.035
+Confidence: 	0.260
+
+SyncNet output for FC1_j3zJt20-clip-004.mp4:
+AV offset: 	14 
+Min dist: 	13.292
+Confidence: 	0.157
+
+SyncNet output for FC1_j3zJt20-clip-005.mp4:
+AV offset: 	-3 
+Min dist: 	12.974
+Confidence: 	0.221
+
+SyncNet output for FC1_j3zJt20-clip-006.mp4:
+AV offset: 	-2 
+Min dist: 	11.768
+Confidence: 	1.660
+
+=========================================================
+
+SyncNet output for H5u-zv0y8J4.mp4:
+=========================================================
+SyncNet output for H5u-zv0y8J4-clip-000.mp4:
+AV offset: 	-3 
+Min dist: 	13.367
+Confidence: 	0.639
+
+SyncNet output for H5u-zv0y8J4-clip-001.mp4:
+AV offset: 	-4 
+Min dist: 	12.583
+Confidence: 	1.205
+
+SyncNet output for H5u-zv0y8J4-clip-002.mp4:
+AV offset: 	-4 
+Min dist: 	13.786
+Confidence: 	0.805
+
+SyncNet output for H5u-zv0y8J4-clip-003.mp4:
+AV offset: 	-5 
+Min dist: 	13.274
+Confidence: 	1.096
+
+SyncNet output for H5u-zv0y8J4-clip-004.mp4:
+AV offset: 	-5 
+Min dist: 	13.679
+Confidence: 	0.912
+
+SyncNet output for H5u-zv0y8J4-clip-005.mp4:
+AV offset: 	-5 
+Min dist: 	13.388
+Confidence: 	1.195
+
+SyncNet output for H5u-zv0y8J4-clip-006.mp4:
+AV offset: 	-5 
+Min dist: 	10.081
+Confidence: 	0.402
+
+=========================================================
+
+SyncNet output for HdgcvNMYbpY.mp4:
+=========================================================
+SyncNet output for HdgcvNMYbpY-clip-000.mp4:
+AV offset: 	-3 
+Min dist: 	12.251
+Confidence: 	0.611
+
+SyncNet output for HdgcvNMYbpY-clip-001.mp4:
+AV offset: 	-14 
+Min dist: 	12.504
+Confidence: 	0.799
+
+SyncNet output for HdgcvNMYbpY-clip-002.mp4:
+AV offset: 	-8 
+Min dist: 	11.796
+Confidence: 	0.685
+
+SyncNet output for HdgcvNMYbpY-clip-003.mp4:
+AV offset: 	-6 
+Min dist: 	12.197
+Confidence: 	0.768
+
+SyncNet output for HdgcvNMYbpY-clip-004.mp4:
+AV offset: 	-15 
+Min dist: 	11.772
+Confidence: 	0.757
+
+SyncNet output for HdgcvNMYbpY-clip-005.mp4:
+AV offset: 	-15 
+Min dist: 	12.692
+Confidence: 	0.382
+
+SyncNet output for HdgcvNMYbpY-clip-006.mp4:
+AV offset: 	-15 
+Min dist: 	11.886
+Confidence: 	0.858
+
+SyncNet output for HdgcvNMYbpY-clip-007.mp4:
+AV offset: 	-4 
+Min dist: 	12.134
+Confidence: 	0.502
+
+SyncNet output for HdgcvNMYbpY-clip-008.mp4:
+AV offset: 	-8 
+Min dist: 	12.056
+Confidence: 	0.655
+
+=========================================================
+
+SyncNet output for HfyGwiepb1s.mp4:
+=========================================================
+SyncNet output for HfyGwiepb1s-clip-000.mp4:
+AV offset: 	-2 
+Min dist: 	13.186
+Confidence: 	0.540
+
+SyncNet output for HfyGwiepb1s-clip-001.mp4:
+AV offset: 	10 
+Min dist: 	13.301
+Confidence: 	0.231
+
+SyncNet output for HfyGwiepb1s-clip-002.mp4:
+AV offset: 	-2 
+Min dist: 	13.278
+Confidence: 	0.668
+
+SyncNet output for HfyGwiepb1s-clip-003.mp4:
+AV offset: 	-3 
+Min dist: 	13.180
+Confidence: 	0.910
+
+SyncNet output for HfyGwiepb1s-clip-004.mp4:
+AV offset: 	-3 
+Min dist: 	13.685
+Confidence: 	0.348
+
+SyncNet output for HfyGwiepb1s-clip-005.mp4:
+AV offset: 	-3 
+Min dist: 	13.376
+Confidence: 	0.622
+
+SyncNet output for HfyGwiepb1s-clip-006.mp4:
+AV offset: 	-3 
+Min dist: 	12.849
+Confidence: 	0.969
+
+SyncNet output for HfyGwiepb1s-clip-007.mp4:
+AV offset: 	-3 
+Min dist: 	13.150
+Confidence: 	0.704
+
+SyncNet output for HfyGwiepb1s-clip-008.mp4:
+AV offset: 	-3 
+Min dist: 	13.404
+Confidence: 	0.695
+
+SyncNet output for HfyGwiepb1s-clip-009.mp4:
+AV offset: 	-3 
+Min dist: 	13.367
+Confidence: 	0.645
+
+SyncNet output for HfyGwiepb1s-clip-010.mp4:
+AV offset: 	-3 
+Min dist: 	13.085
+Confidence: 	0.830
+
+SyncNet output for HfyGwiepb1s-clip-011.mp4:
+AV offset: 	-3 
+Min dist: 	13.177
+Confidence: 	0.915
+
+SyncNet output for HfyGwiepb1s-clip-012.mp4:
+AV offset: 	-3 
+Min dist: 	13.498
+Confidence: 	0.413
+
+SyncNet output for HfyGwiepb1s-clip-013.mp4:
+AV offset: 	-4 
+Min dist: 	13.332
+Confidence: 	0.687
+
+SyncNet output for HfyGwiepb1s-clip-014.mp4:
+AV offset: 	-4 
+Min dist: 	13.339
+Confidence: 	0.876
+
+SyncNet output for HfyGwiepb1s-clip-015.mp4:
+AV offset: 	-4 
+Min dist: 	13.714
+Confidence: 	0.371
+
+SyncNet output for HfyGwiepb1s-clip-016.mp4:
+AV offset: 	-4 
+Min dist: 	9.830
+Confidence: 	0.400
+
+=========================================================
+
+SyncNet output for HpAZRXr3Avw.mp4:
+=========================================================
+SyncNet output for HpAZRXr3Avw-clip-000.mp4:
+AV offset: 	0 
+Min dist: 	11.243
+Confidence: 	2.020
+
+SyncNet output for HpAZRXr3Avw-clip-001.mp4:
+AV offset: 	0 
+Min dist: 	10.557
+Confidence: 	2.440
+
+SyncNet output for HpAZRXr3Avw-clip-002.mp4:
+AV offset: 	0 
+Min dist: 	10.960
+Confidence: 	2.053
+
+SyncNet output for HpAZRXr3Avw-clip-003.mp4:
+AV offset: 	0 
+Min dist: 	10.206
+Confidence: 	2.891
+
+SyncNet output for HpAZRXr3Avw-clip-004.mp4:
+AV offset: 	0 
+Min dist: 	10.135
+Confidence: 	2.910
+
+SyncNet output for HpAZRXr3Avw-clip-005.mp4:
+AV offset: 	0 
+Min dist: 	10.434
+Confidence: 	2.705
+
+=========================================================
+
+SyncNet output for Jb_VMX-XrI8.mp4:
+=========================================================
+SyncNet output for Jb_VMX-XrI8-clip-000.mp4:
+AV offset: 	-2 
+Min dist: 	8.635
+Confidence: 	5.968
+
+SyncNet output for Jb_VMX-XrI8-clip-001.mp4:
+AV offset: 	-2 
+Min dist: 	8.764
+Confidence: 	5.620
+
+SyncNet output for Jb_VMX-XrI8-clip-002.mp4:
+AV offset: 	-2 
+Min dist: 	8.027
+Confidence: 	6.679
+
+SyncNet output for Jb_VMX-XrI8-clip-003.mp4:
+AV offset: 	-2 
+Min dist: 	8.419
+Confidence: 	5.933
+
+SyncNet output for Jb_VMX-XrI8-clip-004.mp4:
+AV offset: 	-2 
+Min dist: 	8.431
+Confidence: 	6.077
+
+SyncNet output for Jb_VMX-XrI8-clip-005.mp4:
+AV offset: 	-2 
+Min dist: 	8.486
+Confidence: 	5.275
+
+=========================================================
+
+SyncNet output for NNe-1VO1yCA.mp4:
+=========================================================
+SyncNet output for NNe-1VO1yCA-clip-000.mp4:
+AV offset: 	-1 
+Min dist: 	13.507
+Confidence: 	0.785
+
+SyncNet output for NNe-1VO1yCA-clip-001.mp4:
+AV offset: 	-1 
+Min dist: 	13.709
+Confidence: 	0.596
+
+SyncNet output for NNe-1VO1yCA-clip-002.mp4:
+AV offset: 	-1 
+Min dist: 	13.572
+Confidence: 	0.838
+
+SyncNet output for NNe-1VO1yCA-clip-003.mp4:
+AV offset: 	-1 
+Min dist: 	13.624
+Confidence: 	0.691
+
+SyncNet output for NNe-1VO1yCA-clip-004.mp4:
+AV offset: 	-1 
+Min dist: 	13.233
+Confidence: 	0.801
+
+SyncNet output for NNe-1VO1yCA-clip-005.mp4:
+AV offset: 	-1 
+Min dist: 	13.296
+Confidence: 	0.646
+
+SyncNet output for NNe-1VO1yCA-clip-006.mp4:
+AV offset: 	-1 
+Min dist: 	13.637
+Confidence: 	0.889
+
+SyncNet output for NNe-1VO1yCA-clip-007.mp4:
+AV offset: 	-1 
+Min dist: 	13.277
+Confidence: 	0.961
+
+SyncNet output for NNe-1VO1yCA-clip-008.mp4:
+AV offset: 	-1 
+Min dist: 	12.328
+Confidence: 	1.267
+
+SyncNet output for NNe-1VO1yCA-clip-009.mp4:
+AV offset: 	-1 
+Min dist: 	11.634
+Confidence: 	1.368
+
+SyncNet output for NNe-1VO1yCA-clip-010.mp4:
+AV offset: 	-2 
+Min dist: 	12.412
+Confidence: 	0.681
+
+=========================================================
+
+SyncNet output for OznYAHlGFwQ.mp4:
+=========================================================
+SyncNet output for OznYAHlGFwQ-clip-000.mp4:
+AV offset: 	0 
+Min dist: 	5.523
+Confidence: 	0.020
+
+SyncNet output for OznYAHlGFwQ-clip-001.mp4:
+AV offset: 	-7 
+Min dist: 	8.092
+Confidence: 	0.082
+
+SyncNet output for OznYAHlGFwQ-clip-002.mp4:
+AV offset: 	-1 
+Min dist: 	11.010
+Confidence: 	0.401
+
+SyncNet output for OznYAHlGFwQ-clip-003.mp4:
+AV offset: 	-2 
+Min dist: 	12.430
+Confidence: 	0.853
+
+SyncNet output for OznYAHlGFwQ-clip-004.mp4:
+AV offset: 	-1 
+Min dist: 	11.900
+Confidence: 	0.883
+
+SyncNet output for OznYAHlGFwQ-clip-005.mp4:
+AV offset: 	-1 
+Min dist: 	12.103
+Confidence: 	1.187
+
+SyncNet output for OznYAHlGFwQ-clip-006.mp4:
+AV offset: 	-1 
+Min dist: 	12.569
+Confidence: 	1.144
+
+SyncNet output for OznYAHlGFwQ-clip-007.mp4:
+AV offset: 	-1 
+Min dist: 	12.360
+Confidence: 	1.389
+
+SyncNet output for OznYAHlGFwQ-clip-008.mp4:
+AV offset: 	-1 
+Min dist: 	12.267
+Confidence: 	1.350
+
+SyncNet output for OznYAHlGFwQ-clip-009.mp4:
+AV offset: 	-1 
+Min dist: 	12.138
+Confidence: 	1.343
+
+SyncNet output for OznYAHlGFwQ-clip-010.mp4:
+AV offset: 	-1 
+Min dist: 	12.588
+Confidence: 	1.301
+
+SyncNet output for OznYAHlGFwQ-clip-011.mp4:
+AV offset: 	-1 
+Min dist: 	12.018
+Confidence: 	1.181
+
+SyncNet output for OznYAHlGFwQ-clip-012.mp4:
+AV offset: 	-1 
+Min dist: 	11.810
+Confidence: 	1.308
+
+SyncNet output for OznYAHlGFwQ-clip-013.mp4:
+AV offset: 	-1 
+Min dist: 	12.016
+Confidence: 	1.280
+
+SyncNet output for OznYAHlGFwQ-clip-014.mp4:
+AV offset: 	-1 
+Min dist: 	9.822
+Confidence: 	0.651
+
+SyncNet output for OznYAHlGFwQ-clip-015.mp4:
+AV offset: 	13 
+Min dist: 	7.949
+Confidence: 	0.060
+
+SyncNet output for OznYAHlGFwQ-clip-016.mp4:
+AV offset: 	-1 
+Min dist: 	10.017
+Confidence: 	0.273
+
+SyncNet output for OznYAHlGFwQ-clip-017.mp4:
+AV offset: 	-1 
+Min dist: 	11.887
+Confidence: 	0.930
+
+SyncNet output for OznYAHlGFwQ-clip-018.mp4:
+AV offset: 	-1 
+Min dist: 	12.198
+Confidence: 	0.974
+
+SyncNet output for OznYAHlGFwQ-clip-019.mp4:
+AV offset: 	-1 
+Min dist: 	11.832
+Confidence: 	0.718
+
+SyncNet output for OznYAHlGFwQ-clip-020.mp4:
+AV offset: 	-1 
+Min dist: 	12.280
+Confidence: 	0.883
+
+SyncNet output for OznYAHlGFwQ-clip-021.mp4:
+AV offset: 	-1 
+Min dist: 	11.378
+Confidence: 	1.064
+
+SyncNet output for OznYAHlGFwQ-clip-022.mp4:
+AV offset: 	-2 
+Min dist: 	12.287
+Confidence: 	0.867
+
+SyncNet output for OznYAHlGFwQ-clip-023.mp4:
+AV offset: 	-1 
+Min dist: 	11.798
+Confidence: 	1.020
+
+SyncNet output for OznYAHlGFwQ-clip-024.mp4:
+AV offset: 	-1 
+Min dist: 	12.150
+Confidence: 	1.028
+
+SyncNet output for OznYAHlGFwQ-clip-025.mp4:
+AV offset: 	-1 
+Min dist: 	12.026
+Confidence: 	0.440
+
+SyncNet output for OznYAHlGFwQ-clip-026.mp4:
+AV offset: 	-1 
+Min dist: 	11.566
+Confidence: 	1.254
+
+SyncNet output for OznYAHlGFwQ-clip-027.mp4:
+AV offset: 	-1 
+Min dist: 	11.806
+Confidence: 	1.296
+
+SyncNet output for OznYAHlGFwQ-clip-028.mp4:
+AV offset: 	-1 
+Min dist: 	11.869
+Confidence: 	0.716
+
+SyncNet output for OznYAHlGFwQ-clip-029.mp4:
+AV offset: 	-1 
+Min dist: 	11.810
+Confidence: 	0.981
+
+SyncNet output for OznYAHlGFwQ-clip-030.mp4:
+AV offset: 	-1 
+Min dist: 	11.550
+Confidence: 	1.332
+
+SyncNet output for OznYAHlGFwQ-clip-031.mp4:
+AV offset: 	-1 
+Min dist: 	11.966
+Confidence: 	0.952
+
+SyncNet output for OznYAHlGFwQ-clip-032.mp4:
+AV offset: 	-1 
+Min dist: 	11.584
+Confidence: 	1.148
+
+SyncNet output for OznYAHlGFwQ-clip-033.mp4:
+AV offset: 	-1 
+Min dist: 	11.701
+Confidence: 	1.100
+
+SyncNet output for OznYAHlGFwQ-clip-034.mp4:
+AV offset: 	-1 
+Min dist: 	11.542
+Confidence: 	0.987
+
+SyncNet output for OznYAHlGFwQ-clip-035.mp4:
+AV offset: 	-1 
+Min dist: 	11.968
+Confidence: 	1.047
+
+SyncNet output for OznYAHlGFwQ-clip-036.mp4:
+AV offset: 	0 
+Min dist: 	11.477
+Confidence: 	0.821
+
+SyncNet output for OznYAHlGFwQ-clip-037.mp4:
+AV offset: 	-1 
+Min dist: 	11.839
+Confidence: 	1.016
+
+SyncNet output for OznYAHlGFwQ-clip-038.mp4:
+AV offset: 	-1 
+Min dist: 	12.298
+Confidence: 	1.092
+
+SyncNet output for OznYAHlGFwQ-clip-039.mp4:
+AV offset: 	-1 
+Min dist: 	11.525
+Confidence: 	0.843
+
+SyncNet output for OznYAHlGFwQ-clip-040.mp4:
+AV offset: 	-1 
+Min dist: 	12.155
+Confidence: 	0.811
+
+SyncNet output for OznYAHlGFwQ-clip-041.mp4:
+AV offset: 	-1 
+Min dist: 	11.857
+Confidence: 	0.855
+
+SyncNet output for OznYAHlGFwQ-clip-042.mp4:
+AV offset: 	-1 
+Min dist: 	11.354
+Confidence: 	0.765
+
+SyncNet output for OznYAHlGFwQ-clip-043.mp4:
+AV offset: 	-1 
+Min dist: 	11.577
+Confidence: 	0.741
+
+SyncNet output for OznYAHlGFwQ-clip-044.mp4:
+AV offset: 	0 
+Min dist: 	10.495
+Confidence: 	1.056
+
+=========================================================
+
+SyncNet output for PYYBlUDbyR4.mp4:
+=========================================================
+SyncNet output for PYYBlUDbyR4-clip-000.mp4:
+AV offset: 	-4 
+Min dist: 	12.002
+Confidence: 	2.898
+
+SyncNet output for PYYBlUDbyR4-clip-001.mp4:
+AV offset: 	-4 
+Min dist: 	10.997
+Confidence: 	3.545
+
+SyncNet output for PYYBlUDbyR4-clip-002.mp4:
+AV offset: 	-4 
+Min dist: 	10.931
+Confidence: 	3.749
+
+SyncNet output for PYYBlUDbyR4-clip-003.mp4:
+AV offset: 	-4 
+Min dist: 	10.443
+Confidence: 	4.263
+
+SyncNet output for PYYBlUDbyR4-clip-004.mp4:
+AV offset: 	-4 
+Min dist: 	10.876
+Confidence: 	3.557
+
+SyncNet output for PYYBlUDbyR4-clip-005.mp4:
+AV offset: 	-4 
+Min dist: 	10.543
+Confidence: 	3.788
+
+SyncNet output for PYYBlUDbyR4-clip-006.mp4:
+AV offset: 	-4 
+Min dist: 	10.831
+Confidence: 	3.883
+
+SyncNet output for PYYBlUDbyR4-clip-007.mp4:
+AV offset: 	-4 
+Min dist: 	11.663
+Confidence: 	2.932
+
+SyncNet output for PYYBlUDbyR4-clip-008.mp4:
+AV offset: 	-4 
+Min dist: 	11.428
+Confidence: 	3.128
+
+SyncNet output for PYYBlUDbyR4-clip-009.mp4:
+AV offset: 	-4 
+Min dist: 	11.013
+Confidence: 	3.425
+
+SyncNet output for PYYBlUDbyR4-clip-010.mp4:
+AV offset: 	-4 
+Min dist: 	10.536
+Confidence: 	3.722
+
+SyncNet output for PYYBlUDbyR4-clip-011.mp4:
+AV offset: 	-4 
+Min dist: 	11.064
+Confidence: 	3.345
+
+SyncNet output for PYYBlUDbyR4-clip-012.mp4:
+AV offset: 	-4 
+Min dist: 	10.647
+Confidence: 	3.699
+
+SyncNet output for PYYBlUDbyR4-clip-013.mp4:
+AV offset: 	-4 
+Min dist: 	10.896
+Confidence: 	3.355
+
+SyncNet output for PYYBlUDbyR4-clip-014.mp4:
+AV offset: 	-4 
+Min dist: 	10.097
+Confidence: 	2.832
+
+=========================================================
+
+SyncNet output for SrYwvj527dg.mp4:
+=========================================================
+SyncNet output for SrYwvj527dg-clip-000.mp4:
+AV offset: 	-3 
+Min dist: 	10.160
+Confidence: 	1.331
+
+SyncNet output for SrYwvj527dg-clip-001.mp4:
+AV offset: 	-3 
+Min dist: 	9.484
+Confidence: 	2.832
+
+SyncNet output for SrYwvj527dg-clip-002.mp4:
+AV offset: 	-3 
+Min dist: 	9.422
+Confidence: 	3.155
+
+SyncNet output for SrYwvj527dg-clip-003.mp4:
+AV offset: 	-3 
+Min dist: 	9.855
+Confidence: 	2.630
+
+SyncNet output for SrYwvj527dg-clip-004.mp4:
+AV offset: 	-3 
+Min dist: 	9.491
+Confidence: 	3.111
+
+SyncNet output for SrYwvj527dg-clip-005.mp4:
+AV offset: 	-3 
+Min dist: 	9.730
+Confidence: 	2.934
+
+SyncNet output for SrYwvj527dg-clip-006.mp4:
+AV offset: 	-3 
+Min dist: 	9.621
+Confidence: 	2.752
+
+SyncNet output for SrYwvj527dg-clip-007.mp4:
+AV offset: 	-3 
+Min dist: 	9.691
+Confidence: 	2.684
+
+SyncNet output for SrYwvj527dg-clip-008.mp4:
+AV offset: 	-3 
+Min dist: 	11.966
+Confidence: 	0.358
+
+=========================================================
+
+SyncNet output for TCNdKOAxVS0.mp4:
+=========================================================
+SyncNet output for TCNdKOAxVS0-clip-000.mp4:
+AV offset: 	15 
+Min dist: 	13.269
+Confidence: 	0.087
+
+SyncNet output for TCNdKOAxVS0-clip-001.mp4:
+AV offset: 	-14 
+Min dist: 	13.035
+Confidence: 	0.213
+
+SyncNet output for TCNdKOAxVS0-clip-002.mp4:
+AV offset: 	-10 
+Min dist: 	13.132
+Confidence: 	0.304
+
+SyncNet output for TCNdKOAxVS0-clip-003.mp4:
+AV offset: 	-15 
+Min dist: 	13.732
+Confidence: 	0.222
+
+SyncNet output for TCNdKOAxVS0-clip-004.mp4:
+AV offset: 	-9 
+Min dist: 	12.844
+Confidence: 	0.285
+
+SyncNet output for TCNdKOAxVS0-clip-005.mp4:
+AV offset: 	-10 
+Min dist: 	12.899
+Confidence: 	0.350
+
+SyncNet output for TCNdKOAxVS0-clip-006.mp4:
+AV offset: 	-12 
+Min dist: 	13.339
+Confidence: 	0.211
+
+=========================================================
+
+SyncNet output for W_RKdq3xKK8.mp4:
+=========================================================
+SyncNet output for W_RKdq3xKK8-clip-000.mp4:
+AV offset: 	-2 
+Min dist: 	12.115
+Confidence: 	0.901
+
+SyncNet output for W_RKdq3xKK8-clip-001.mp4:
+AV offset: 	-2 
+Min dist: 	13.093
+Confidence: 	0.464
+
+SyncNet output for W_RKdq3xKK8-clip-002.mp4:
+AV offset: 	-2 
+Min dist: 	12.582
+Confidence: 	0.966
+
+SyncNet output for W_RKdq3xKK8-clip-003.mp4:
+AV offset: 	-2 
+Min dist: 	13.501
+Confidence: 	0.385
+
+SyncNet output for W_RKdq3xKK8-clip-004.mp4:
+AV offset: 	-2 
+Min dist: 	13.770
+Confidence: 	0.707
+
+SyncNet output for W_RKdq3xKK8-clip-005.mp4:
+AV offset: 	15 
+Min dist: 	13.809
+Confidence: 	0.154
+
+SyncNet output for W_RKdq3xKK8-clip-006.mp4:
+AV offset: 	11 
+Min dist: 	14.136
+Confidence: 	0.192
+
+SyncNet output for W_RKdq3xKK8-clip-007.mp4:
+AV offset: 	15 
+Min dist: 	15.243
+Confidence: 	0.063
+
+SyncNet output for W_RKdq3xKK8-clip-008.mp4:
+AV offset: 	-2 
+Min dist: 	12.759
+Confidence: 	0.118
+
+SyncNet output for W_RKdq3xKK8-clip-009.mp4:
+AV offset: 	-2 
+Min dist: 	12.391
+Confidence: 	1.351
+
+SyncNet output for W_RKdq3xKK8-clip-010.mp4:
+AV offset: 	-2 
+Min dist: 	11.480
+Confidence: 	1.909
+
+SyncNet output for W_RKdq3xKK8-clip-011.mp4:
+AV offset: 	-9 
+Min dist: 	12.595
+Confidence: 	0.162
+
+=========================================================
+
+SyncNet output for WmhC_HiIj9A.mp4:
+=========================================================
+SyncNet output for WmhC_HiIj9A-clip-000.mp4:
+AV offset: 	-3 
+Min dist: 	12.603
+Confidence: 	0.536
+
+SyncNet output for WmhC_HiIj9A-clip-001.mp4:
+AV offset: 	-2 
+Min dist: 	12.907
+Confidence: 	0.359
+
+SyncNet output for WmhC_HiIj9A-clip-002.mp4:
+AV offset: 	-1 
+Min dist: 	12.794
+Confidence: 	0.546
+
+SyncNet output for WmhC_HiIj9A-clip-003.mp4:
+AV offset: 	-1 
+Min dist: 	12.823
+Confidence: 	1.032
+
+SyncNet output for WmhC_HiIj9A-clip-004.mp4:
+AV offset: 	-1 
+Min dist: 	12.417
+Confidence: 	1.020
+
+SyncNet output for WmhC_HiIj9A-clip-005.mp4:
+AV offset: 	-2 
+Min dist: 	12.983
+Confidence: 	0.672
+
+SyncNet output for WmhC_HiIj9A-clip-006.mp4:
+AV offset: 	-2 
+Min dist: 	12.607
+Confidence: 	0.919
+
+SyncNet output for WmhC_HiIj9A-clip-007.mp4:
+AV offset: 	-2 
+Min dist: 	12.412
+Confidence: 	0.835
+
+SyncNet output for WmhC_HiIj9A-clip-008.mp4:
+AV offset: 	-2 
+Min dist: 	12.000
+Confidence: 	0.900
+
+SyncNet output for WmhC_HiIj9A-clip-009.mp4:
+AV offset: 	-2 
+Min dist: 	12.219
+Confidence: 	0.642
+
+SyncNet output for WmhC_HiIj9A-clip-010.mp4:
+AV offset: 	-2 
+Min dist: 	12.478
+Confidence: 	0.555
+
+SyncNet output for WmhC_HiIj9A-clip-011.mp4:
+AV offset: 	-2 
+Min dist: 	12.479
+Confidence: 	0.529
+
+SyncNet output for WmhC_HiIj9A-clip-012.mp4:
+AV offset: 	-2 
+Min dist: 	12.477
+Confidence: 	1.052
+
+SyncNet output for WmhC_HiIj9A-clip-013.mp4:
+AV offset: 	-2 
+Min dist: 	12.036
+Confidence: 	1.067
+
+SyncNet output for WmhC_HiIj9A-clip-014.mp4:
+AV offset: 	-2 
+Min dist: 	11.837
+Confidence: 	1.036
+
+SyncNet output for WmhC_HiIj9A-clip-015.mp4:
+AV offset: 	-2 
+Min dist: 	12.280
+Confidence: 	1.016
+
+SyncNet output for WmhC_HiIj9A-clip-016.mp4:
+AV offset: 	-5 
+Min dist: 	12.249
+Confidence: 	0.790
+
+=========================================================
+
+SyncNet output for X7X3faMdjdI.mp4:
+=========================================================
+SyncNet output for X7X3faMdjdI-clip-000.mp4:
+AV offset: 	-3 
+Min dist: 	14.647
+Confidence: 	0.234
+
+SyncNet output for X7X3faMdjdI-clip-001.mp4:
+AV offset: 	-3 
+Min dist: 	14.624
+Confidence: 	0.257
+
+SyncNet output for X7X3faMdjdI-clip-002.mp4:
+AV offset: 	-3 
+Min dist: 	13.966
+Confidence: 	0.229
+
+SyncNet output for X7X3faMdjdI-clip-003.mp4:
+AV offset: 	-2 
+Min dist: 	13.591
+Confidence: 	0.490
+
+SyncNet output for X7X3faMdjdI-clip-004.mp4:
+AV offset: 	-3 
+Min dist: 	13.762
+Confidence: 	0.437
+
+SyncNet output for X7X3faMdjdI-clip-005.mp4:
+AV offset: 	-2 
+Min dist: 	14.213
+Confidence: 	0.277
+
+SyncNet output for X7X3faMdjdI-clip-006.mp4:
+AV offset: 	-3 
+Min dist: 	14.664
+Confidence: 	0.245
+
+SyncNet output for X7X3faMdjdI-clip-007.mp4:
+AV offset: 	-3 
+Min dist: 	14.522
+Confidence: 	0.291
+
+SyncNet output for X7X3faMdjdI-clip-008.mp4:
+AV offset: 	-2 
+Min dist: 	14.348
+Confidence: 	0.326
+
+SyncNet output for X7X3faMdjdI-clip-009.mp4:
+AV offset: 	-4 
+Min dist: 	14.544
+Confidence: 	0.375
+
+=========================================================
+
+SyncNet output for XVYpbDl6tHU.mp4:
+=========================================================
+SyncNet output for XVYpbDl6tHU-clip-000.mp4:
+AV offset: 	-2 
+Min dist: 	13.237
+Confidence: 	0.551
+
+SyncNet output for XVYpbDl6tHU-clip-001.mp4:
+AV offset: 	-2 
+Min dist: 	13.505
+Confidence: 	0.254
+
+SyncNet output for XVYpbDl6tHU-clip-002.mp4:
+AV offset: 	2 
+Min dist: 	13.754
+Confidence: 	0.192
+
+=========================================================
+
+SyncNet output for bxBtrAgI4iM.mp4:
+=========================================================
+SyncNet output for bxBtrAgI4iM-clip-000.mp4:
+AV offset: 	-13 
+Min dist: 	12.410
+Confidence: 	0.140
+
+SyncNet output for bxBtrAgI4iM-clip-001.mp4:
+AV offset: 	-15 
+Min dist: 	14.465
+Confidence: 	0.103
+
+SyncNet output for bxBtrAgI4iM-clip-002.mp4:
+AV offset: 	-9 
+Min dist: 	14.343
+Confidence: 	0.147
+
+SyncNet output for bxBtrAgI4iM-clip-003.mp4:
+AV offset: 	-3 
+Min dist: 	14.288
+Confidence: 	0.052
+
+SyncNet output for bxBtrAgI4iM-clip-004.mp4:
+AV offset: 	-3 
+Min dist: 	15.339
+Confidence: 	0.115
+
+SyncNet output for bxBtrAgI4iM-clip-005.mp4:
+AV offset: 	6 
+Min dist: 	13.825
+Confidence: 	0.106
+
+SyncNet output for bxBtrAgI4iM-clip-006.mp4:
+AV offset: 	-8 
+Min dist: 	14.606
+Confidence: 	0.088
+
+SyncNet output for bxBtrAgI4iM-clip-007.mp4:
+AV offset: 	-2 
+Min dist: 	15.573
+Confidence: 	0.063
+
+SyncNet output for bxBtrAgI4iM-clip-008.mp4:
+AV offset: 	9 
+Min dist: 	14.842
+Confidence: 	0.105
+
+SyncNet output for bxBtrAgI4iM-clip-009.mp4:
+AV offset: 	-3 
+Min dist: 	14.114
+Confidence: 	0.081
+
+SyncNet output for bxBtrAgI4iM-clip-010.mp4:
+AV offset: 	-2 
+Min dist: 	14.924
+Confidence: 	0.097
+
+SyncNet output for bxBtrAgI4iM-clip-011.mp4:
+AV offset: 	15 
+Min dist: 	14.664
+Confidence: 	0.160
+
+SyncNet output for bxBtrAgI4iM-clip-012.mp4:
+AV offset: 	11 
+Min dist: 	14.954
+Confidence: 	0.153
+
+SyncNet output for bxBtrAgI4iM-clip-013.mp4:
+AV offset: 	-2 
+Min dist: 	15.350
+Confidence: 	0.085
+
+SyncNet output for bxBtrAgI4iM-clip-014.mp4:
+AV offset: 	-14 
+Min dist: 	14.980
+Confidence: 	0.104
+
+SyncNet output for bxBtrAgI4iM-clip-015.mp4:
+AV offset: 	-8 
+Min dist: 	14.486
+Confidence: 	0.078
+
+SyncNet output for bxBtrAgI4iM-clip-016.mp4:
+AV offset: 	-1 
+Min dist: 	11.529
+Confidence: 	0.662
+
+=========================================================
+
+SyncNet output for eXudobte9Mo.mp4:
+=========================================================
+SyncNet output for eXudobte9Mo-clip-000.mp4:
+AV offset: 	-1 
+Min dist: 	10.084
+Confidence: 	2.545
+
+SyncNet output for eXudobte9Mo-clip-001.mp4:
+AV offset: 	-1 
+Min dist: 	10.709
+Confidence: 	2.953
+
+SyncNet output for eXudobte9Mo-clip-002.mp4:
+AV offset: 	-1 
+Min dist: 	10.200
+Confidence: 	2.466
+
+=========================================================
+
+SyncNet output for fQThxKj5mtU.mp4:
+=========================================================
+SyncNet output for fQThxKj5mtU-clip-000.mp4:
+AV offset: 	-2 
+Min dist: 	13.495
+Confidence: 	0.163
+
+SyncNet output for fQThxKj5mtU-clip-001.mp4:
+AV offset: 	-1 
+Min dist: 	13.248
+Confidence: 	0.466
+
+SyncNet output for fQThxKj5mtU-clip-002.mp4:
+AV offset: 	-1 
+Min dist: 	13.664
+Confidence: 	0.371
+
+SyncNet output for fQThxKj5mtU-clip-003.mp4:
+AV offset: 	-1 
+Min dist: 	13.140
+Confidence: 	0.277
+
+SyncNet output for fQThxKj5mtU-clip-004.mp4:
+AV offset: 	-2 
+Min dist: 	13.209
+Confidence: 	0.284
+
+SyncNet output for fQThxKj5mtU-clip-005.mp4:
+AV offset: 	-2 
+Min dist: 	13.727
+Confidence: 	0.261
+
+SyncNet output for fQThxKj5mtU-clip-006.mp4:
+AV offset: 	-1 
+Min dist: 	13.372
+Confidence: 	0.326
+
+SyncNet output for fQThxKj5mtU-clip-007.mp4:
+AV offset: 	-1 
+Min dist: 	13.231
+Confidence: 	0.422
+
+SyncNet output for fQThxKj5mtU-clip-008.mp4:
+AV offset: 	-1 
+Min dist: 	13.455
+Confidence: 	0.404
+
+SyncNet output for fQThxKj5mtU-clip-009.mp4:
+AV offset: 	-12 
+Min dist: 	11.972
+Confidence: 	0.257
+
+=========================================================
+
+SyncNet output for fixed-4XVg57NjwM.mp4:
+=========================================================
+SyncNet output for fixed-4XVg57NjwM-clip-000.mp4:
+AV offset: 	1 
+Min dist: 	10.595
+Confidence: 	2.554
+
+SyncNet output for fixed-4XVg57NjwM-clip-001.mp4:
+AV offset: 	2 
+Min dist: 	10.129
+Confidence: 	0.997
+
+SyncNet output for fixed-4XVg57NjwM-clip-002.mp4:
+AV offset: 	2 
+Min dist: 	10.763
+Confidence: 	0.892
+
+SyncNet output for fixed-4XVg57NjwM-clip-003.mp4:
+AV offset: 	2 
+Min dist: 	10.369
+Confidence: 	1.521
+
+SyncNet output for fixed-4XVg57NjwM-clip-004.mp4:
+AV offset: 	2 
+Min dist: 	10.886
+Confidence: 	1.367
+
+SyncNet output for fixed-4XVg57NjwM-clip-005.mp4:
+AV offset: 	1 
+Min dist: 	11.148
+Confidence: 	1.299
+
+SyncNet output for fixed-4XVg57NjwM-clip-006.mp4:
+AV offset: 	1 
+Min dist: 	11.910
+Confidence: 	0.407
+
+SyncNet output for fixed-4XVg57NjwM-clip-007.mp4:
+AV offset: 	1 
+Min dist: 	11.386
+Confidence: 	0.837
+
+SyncNet output for fixed-4XVg57NjwM-clip-008.mp4:
+AV offset: 	1 
+Min dist: 	10.858
+Confidence: 	0.747
+
+SyncNet output for fixed-4XVg57NjwM-clip-009.mp4:
+AV offset: 	2 
+Min dist: 	10.279
+Confidence: 	0.323
+
+SyncNet output for fixed-4XVg57NjwM-clip-010.mp4:
+AV offset: 	1 
+Min dist: 	9.721
+Confidence: 	0.726
+
+SyncNet output for fixed-4XVg57NjwM-clip-011.mp4:
+AV offset: 	1 
+Min dist: 	10.294
+Confidence: 	1.281
+
+SyncNet output for fixed-4XVg57NjwM-clip-012.mp4:
+AV offset: 	2 
+Min dist: 	10.371
+Confidence: 	2.054
+
+SyncNet output for fixed-4XVg57NjwM-clip-013.mp4:
+AV offset: 	1 
+Min dist: 	9.996
+Confidence: 	2.241
+
+=========================================================
+
+SyncNet output for hQ6rImHJy80.mp4:
+=========================================================
+SyncNet output for hQ6rImHJy80-clip-000.mp4:
+AV offset: 	-2 
+Min dist: 	13.468
+Confidence: 	0.361
+
+SyncNet output for hQ6rImHJy80-clip-001.mp4:
+AV offset: 	-2 
+Min dist: 	12.720
+Confidence: 	0.741
+
+SyncNet output for hQ6rImHJy80-clip-002.mp4:
+AV offset: 	-2 
+Min dist: 	14.142
+Confidence: 	0.471
+
+SyncNet output for hQ6rImHJy80-clip-003.mp4:
+AV offset: 	-2 
+Min dist: 	13.902
+Confidence: 	0.229
+
+SyncNet output for hQ6rImHJy80-clip-004.mp4:
+AV offset: 	-2 
+Min dist: 	13.304
+Confidence: 	0.564
+
+SyncNet output for hQ6rImHJy80-clip-005.mp4:
+AV offset: 	-3 
+Min dist: 	13.743
+Confidence: 	0.279
+
+SyncNet output for hQ6rImHJy80-clip-006.mp4:
+AV offset: 	-8 
+Min dist: 	13.789
+Confidence: 	0.177
+
+SyncNet output for hQ6rImHJy80-clip-007.mp4:
+AV offset: 	-2 
+Min dist: 	14.075
+Confidence: 	0.365
+
+SyncNet output for hQ6rImHJy80-clip-008.mp4:
+AV offset: 	-2 
+Min dist: 	13.963
+Confidence: 	0.525
+
+SyncNet output for hQ6rImHJy80-clip-009.mp4:
+AV offset: 	-2 
+Min dist: 	13.801
+Confidence: 	0.570
+
+SyncNet output for hQ6rImHJy80-clip-010.mp4:
+AV offset: 	-11 
+Min dist: 	11.668
+Confidence: 	0.538
+
+=========================================================
+
+SyncNet output for iqBOfND7BZY.mp4:
+=========================================================
+SyncNet output for iqBOfND7BZY-clip-000.mp4:
+AV offset: 	-1 
+Min dist: 	12.048
+Confidence: 	1.755
+
+SyncNet output for iqBOfND7BZY-clip-001.mp4:
+AV offset: 	-2 
+Min dist: 	10.427
+Confidence: 	3.495
+
+SyncNet output for iqBOfND7BZY-clip-002.mp4:
+AV offset: 	0 
+Min dist: 	11.630
+Confidence: 	2.467
+
+SyncNet output for iqBOfND7BZY-clip-003.mp4:
+AV offset: 	0 
+Min dist: 	10.840
+Confidence: 	3.229
+
+SyncNet output for iqBOfND7BZY-clip-004.mp4:
+AV offset: 	0 
+Min dist: 	11.003
+Confidence: 	2.637
+
+SyncNet output for iqBOfND7BZY-clip-005.mp4:
+AV offset: 	0 
+Min dist: 	11.180
+Confidence: 	2.506
+
+SyncNet output for iqBOfND7BZY-clip-006.mp4:
+AV offset: 	-1 
+Min dist: 	12.514
+Confidence: 	1.986
+
+SyncNet output for iqBOfND7BZY-clip-007.mp4:
+AV offset: 	-1 
+Min dist: 	11.382
+Confidence: 	2.426
+
+SyncNet output for iqBOfND7BZY-clip-008.mp4:
+AV offset: 	-1 
+Min dist: 	10.856
+Confidence: 	2.720
+
+SyncNet output for iqBOfND7BZY-clip-009.mp4:
+AV offset: 	-1 
+Min dist: 	11.444
+Confidence: 	2.356
+
+=========================================================
+
+SyncNet output for kZtgX9jLuSg.mp4:
+=========================================================
+SyncNet output for kZtgX9jLuSg-clip-000.mp4:
+AV offset: 	-2 
+Min dist: 	11.902
+Confidence: 	3.064
+
+SyncNet output for kZtgX9jLuSg-clip-001.mp4:
+AV offset: 	-2 
+Min dist: 	12.147
+Confidence: 	2.737
+
+SyncNet output for kZtgX9jLuSg-clip-002.mp4:
+AV offset: 	-2 
+Min dist: 	11.096
+Confidence: 	4.001
+
+SyncNet output for kZtgX9jLuSg-clip-003.mp4:
+AV offset: 	-2 
+Min dist: 	13.475
+Confidence: 	2.063
+
+SyncNet output for kZtgX9jLuSg-clip-004.mp4:
+AV offset: 	-2 
+Min dist: 	12.484
+Confidence: 	2.965
+
+SyncNet output for kZtgX9jLuSg-clip-005.mp4:
+AV offset: 	-2 
+Min dist: 	12.203
+Confidence: 	2.305
+
+SyncNet output for kZtgX9jLuSg-clip-006.mp4:
+AV offset: 	-15 
+Min dist: 	9.369
+Confidence: 	1.433
+
+=========================================================
+
+SyncNet output for kpsgdmspOM8.mp4:
+=========================================================
+SyncNet output for kpsgdmspOM8-clip-000.mp4:
+AV offset: 	-1 
+Min dist: 	10.190
+Confidence: 	1.864
+
+SyncNet output for kpsgdmspOM8-clip-001.mp4:
+AV offset: 	-1 
+Min dist: 	9.841
+Confidence: 	2.416
+
+SyncNet output for kpsgdmspOM8-clip-002.mp4:
+AV offset: 	-1 
+Min dist: 	9.627
+Confidence: 	2.983
+
+SyncNet output for kpsgdmspOM8-clip-003.mp4:
+AV offset: 	-1 
+Min dist: 	10.269
+Confidence: 	2.846
+
+SyncNet output for kpsgdmspOM8-clip-004.mp4:
+AV offset: 	-1 
+Min dist: 	9.326
+Confidence: 	3.032
+
+SyncNet output for kpsgdmspOM8-clip-005.mp4:
+AV offset: 	-1 
+Min dist: 	9.188
+Confidence: 	3.374
+
+SyncNet output for kpsgdmspOM8-clip-006.mp4:
+AV offset: 	-1 
+Min dist: 	9.848
+Confidence: 	2.228
+
+SyncNet output for kpsgdmspOM8-clip-007.mp4:
+AV offset: 	-1 
+Min dist: 	9.679
+Confidence: 	2.615
+
+SyncNet output for kpsgdmspOM8-clip-008.mp4:
+AV offset: 	-1 
+Min dist: 	9.614
+Confidence: 	2.640
+
+SyncNet output for kpsgdmspOM8-clip-009.mp4:
+AV offset: 	-1 
+Min dist: 	9.455
+Confidence: 	2.745
+
+SyncNet output for kpsgdmspOM8-clip-010.mp4:
+AV offset: 	-1 
+Min dist: 	9.744
+Confidence: 	2.496
+
+SyncNet output for kpsgdmspOM8-clip-011.mp4:
+AV offset: 	-1 
+Min dist: 	9.420
+Confidence: 	2.553
+
+SyncNet output for kpsgdmspOM8-clip-012.mp4:
+AV offset: 	-1 
+Min dist: 	9.612
+Confidence: 	2.755
+
+SyncNet output for kpsgdmspOM8-clip-013.mp4:
+AV offset: 	-1 
+Min dist: 	9.656
+Confidence: 	2.562
+
+SyncNet output for kpsgdmspOM8-clip-014.mp4:
+AV offset: 	-1 
+Min dist: 	9.310
+Confidence: 	2.993
+
+SyncNet output for kpsgdmspOM8-clip-015.mp4:
+AV offset: 	-1 
+Min dist: 	9.692
+Confidence: 	2.293
+
+SyncNet output for kpsgdmspOM8-clip-016.mp4:
+AV offset: 	-1 
+Min dist: 	9.551
+Confidence: 	3.282
+
+SyncNet output for kpsgdmspOM8-clip-017.mp4:
+AV offset: 	-1 
+Min dist: 	9.236
+Confidence: 	3.215
+
+SyncNet output for kpsgdmspOM8-clip-018.mp4:
+AV offset: 	-1 
+Min dist: 	8.713
+Confidence: 	3.460
+
+=========================================================
+
+SyncNet output for pVFiRhxFc2U.mp4:
+=========================================================
+SyncNet output for pVFiRhxFc2U-clip-000.mp4:
+AV offset: 	-3 
+Min dist: 	9.960
+Confidence: 	3.797
+
+SyncNet output for pVFiRhxFc2U-clip-001.mp4:
+AV offset: 	-3 
+Min dist: 	9.742
+Confidence: 	4.007
+
+SyncNet output for pVFiRhxFc2U-clip-002.mp4:
+AV offset: 	-3 
+Min dist: 	9.824
+Confidence: 	4.375
+
+SyncNet output for pVFiRhxFc2U-clip-003.mp4:
+AV offset: 	-3 
+Min dist: 	10.375
+Confidence: 	3.615
+
+SyncNet output for pVFiRhxFc2U-clip-004.mp4:
+AV offset: 	-3 
+Min dist: 	9.994
+Confidence: 	4.017
+
+SyncNet output for pVFiRhxFc2U-clip-005.mp4:
+AV offset: 	-3 
+Min dist: 	9.342
+Confidence: 	4.653
+
+SyncNet output for pVFiRhxFc2U-clip-006.mp4:
+AV offset: 	-3 
+Min dist: 	10.269
+Confidence: 	3.432
+
+SyncNet output for pVFiRhxFc2U-clip-007.mp4:
+AV offset: 	-3 
+Min dist: 	9.843
+Confidence: 	3.911
+
+SyncNet output for pVFiRhxFc2U-clip-008.mp4:
+AV offset: 	-3 
+Min dist: 	9.606
+Confidence: 	4.368
+
+SyncNet output for pVFiRhxFc2U-clip-009.mp4:
+AV offset: 	-3 
+Min dist: 	10.216
+Confidence: 	3.779
+
+SyncNet output for pVFiRhxFc2U-clip-010.mp4:
+AV offset: 	-3 
+Min dist: 	10.328
+Confidence: 	3.730
+
+SyncNet output for pVFiRhxFc2U-clip-011.mp4:
+AV offset: 	-3 
+Min dist: 	10.678
+Confidence: 	2.546
+
+=========================================================
+
+SyncNet output for ppJdkVMflx8.mp4:
+=========================================================
+SyncNet output for ppJdkVMflx8-clip-000.mp4:
+AV offset: 	-2 
+Min dist: 	12.334
+Confidence: 	0.605
+
+SyncNet output for ppJdkVMflx8-clip-001.mp4:
+AV offset: 	-1 
+Min dist: 	12.922
+Confidence: 	0.743
+
+SyncNet output for ppJdkVMflx8-clip-002.mp4:
+AV offset: 	-1 
+Min dist: 	13.087
+Confidence: 	0.372
+
+SyncNet output for ppJdkVMflx8-clip-003.mp4:
+AV offset: 	-1 
+Min dist: 	13.533
+Confidence: 	0.334
+
+SyncNet output for ppJdkVMflx8-clip-004.mp4:
+AV offset: 	-1 
+Min dist: 	13.090
+Confidence: 	0.910
+
+SyncNet output for ppJdkVMflx8-clip-005.mp4:
+AV offset: 	-1 
+Min dist: 	13.039
+Confidence: 	1.068
+
+SyncNet output for ppJdkVMflx8-clip-006.mp4:
+AV offset: 	-1 
+Min dist: 	13.346
+Confidence: 	0.690
+
+SyncNet output for ppJdkVMflx8-clip-007.mp4:
+AV offset: 	-1 
+Min dist: 	13.465
+Confidence: 	0.643
+
+SyncNet output for ppJdkVMflx8-clip-008.mp4:
+AV offset: 	-1 
+Min dist: 	12.593
+Confidence: 	1.030
+
+SyncNet output for ppJdkVMflx8-clip-009.mp4:
+AV offset: 	-1 
+Min dist: 	12.823
+Confidence: 	0.647
+
+SyncNet output for ppJdkVMflx8-clip-010.mp4:
+AV offset: 	-1 
+Min dist: 	12.964
+Confidence: 	1.023
+
+SyncNet output for ppJdkVMflx8-clip-011.mp4:
+AV offset: 	-1 
+Min dist: 	13.158
+Confidence: 	1.129
+
+SyncNet output for ppJdkVMflx8-clip-012.mp4:
+AV offset: 	-1 
+Min dist: 	13.281
+Confidence: 	0.941
+
+SyncNet output for ppJdkVMflx8-clip-013.mp4:
+AV offset: 	-1 
+Min dist: 	13.175
+Confidence: 	0.748
+
+SyncNet output for ppJdkVMflx8-clip-014.mp4:
+AV offset: 	-1 
+Min dist: 	12.638
+Confidence: 	1.116
+
+SyncNet output for ppJdkVMflx8-clip-015.mp4:
+AV offset: 	-1 
+Min dist: 	12.335
+Confidence: 	0.931
+
+=========================================================
+
+SyncNet output for rwPdr-jNRDA.mp4:
+=========================================================
+SyncNet output for rwPdr-jNRDA-clip-000.mp4:
+AV offset: 	15 
+Min dist: 	13.104
+Confidence: 	0.113
+
+SyncNet output for rwPdr-jNRDA-clip-001.mp4:
+AV offset: 	-1 
+Min dist: 	12.898
+Confidence: 	0.270
+
+SyncNet output for rwPdr-jNRDA-clip-002.mp4:
+AV offset: 	-1 
+Min dist: 	13.490
+Confidence: 	0.096
+
+SyncNet output for rwPdr-jNRDA-clip-003.mp4:
+AV offset: 	-12 
+Min dist: 	13.968
+Confidence: 	0.095
+
+SyncNet output for rwPdr-jNRDA-clip-004.mp4:
+AV offset: 	-11 
+Min dist: 	13.559
+Confidence: 	0.209
+
+SyncNet output for rwPdr-jNRDA-clip-005.mp4:
+AV offset: 	-1 
+Min dist: 	13.489
+Confidence: 	0.242
+
+SyncNet output for rwPdr-jNRDA-clip-006.mp4:
+AV offset: 	-1 
+Min dist: 	13.665
+Confidence: 	0.156
+
+SyncNet output for rwPdr-jNRDA-clip-007.mp4:
+AV offset: 	-1 
+Min dist: 	13.456
+Confidence: 	0.334
+
+SyncNet output for rwPdr-jNRDA-clip-008.mp4:
+AV offset: 	-1 
+Min dist: 	13.391
+Confidence: 	0.059
+
+SyncNet output for rwPdr-jNRDA-clip-009.mp4:
+AV offset: 	-1 
+Min dist: 	13.080
+Confidence: 	0.354
+
+SyncNet output for rwPdr-jNRDA-clip-010.mp4:
+AV offset: 	-1 
+Min dist: 	13.009
+Confidence: 	0.289
+
+=========================================================
+
+SyncNet output for t1YgUYbMm0M.mp4:
+=========================================================
+SyncNet output for t1YgUYbMm0M-clip-000.mp4:
+AV offset: 	-2 
+Min dist: 	9.822
+Confidence: 	4.257
+
+SyncNet output for t1YgUYbMm0M-clip-001.mp4:
+AV offset: 	-2 
+Min dist: 	10.070
+Confidence: 	4.020
+
+SyncNet output for t1YgUYbMm0M-clip-002.mp4:
+AV offset: 	-2 
+Min dist: 	9.140
+Confidence: 	5.436
+
+SyncNet output for t1YgUYbMm0M-clip-003.mp4:
+AV offset: 	-2 
+Min dist: 	8.624
+Confidence: 	5.837
+
+SyncNet output for t1YgUYbMm0M-clip-004.mp4:
+AV offset: 	-2 
+Min dist: 	9.252
+Confidence: 	5.097
+
+SyncNet output for t1YgUYbMm0M-clip-005.mp4:
+AV offset: 	-2 
+Min dist: 	9.303
+Confidence: 	4.820
+
+SyncNet output for t1YgUYbMm0M-clip-006.mp4:
+AV offset: 	-2 
+Min dist: 	9.484
+Confidence: 	5.006
+
+SyncNet output for t1YgUYbMm0M-clip-007.mp4:
+AV offset: 	-2 
+Min dist: 	9.245
+Confidence: 	5.167
+
+SyncNet output for t1YgUYbMm0M-clip-008.mp4:
+AV offset: 	-2 
+Min dist: 	9.869
+Confidence: 	4.412
+
+SyncNet output for t1YgUYbMm0M-clip-009.mp4:
+AV offset: 	-2 
+Min dist: 	8.948
+Confidence: 	4.581
+
+=========================================================
+
+SyncNet output for trPGQle76so.mp4:
+=========================================================
+SyncNet output for trPGQle76so-clip-000.mp4:
+AV offset: 	0 
+Min dist: 	8.438
+Confidence: 	5.757
+
+SyncNet output for trPGQle76so-clip-001.mp4:
+AV offset: 	0 
+Min dist: 	9.089
+Confidence: 	4.666
+
+SyncNet output for trPGQle76so-clip-002.mp4:
+AV offset: 	0 
+Min dist: 	8.664
+Confidence: 	5.317
+
+SyncNet output for trPGQle76so-clip-003.mp4:
+AV offset: 	0 
+Min dist: 	8.741
+Confidence: 	5.377
+
+SyncNet output for trPGQle76so-clip-004.mp4:
+AV offset: 	0 
+Min dist: 	8.972
+Confidence: 	5.139
+
+SyncNet output for trPGQle76so-clip-005.mp4:
+AV offset: 	0 
+Min dist: 	8.751
+Confidence: 	5.172
+
+SyncNet output for trPGQle76so-clip-006.mp4:
+AV offset: 	0 
+Min dist: 	8.736
+Confidence: 	4.819
+
+SyncNet output for trPGQle76so-clip-007.mp4:
+AV offset: 	0 
+Min dist: 	8.555
+Confidence: 	5.707
+
+SyncNet output for trPGQle76so-clip-008.mp4:
+AV offset: 	0 
+Min dist: 	8.881
+Confidence: 	5.435
+
+SyncNet output for trPGQle76so-clip-009.mp4:
+AV offset: 	0 
+Min dist: 	8.642
+Confidence: 	5.766
+
+SyncNet output for trPGQle76so-clip-010.mp4:
+AV offset: 	0 
+Min dist: 	8.686
+Confidence: 	2.862
+
+=========================================================
+
+SyncNet output for vUaBmHw2pAo.mp4:
+=========================================================
+SyncNet output for vUaBmHw2pAo-clip-000.mp4:
+AV offset: 	0 
+Min dist: 	9.691
+Confidence: 	2.498
+
+SyncNet output for vUaBmHw2pAo-clip-001.mp4:
+AV offset: 	0 
+Min dist: 	10.232
+Confidence: 	1.991
+
+SyncNet output for vUaBmHw2pAo-clip-002.mp4:
+AV offset: 	0 
+Min dist: 	10.310
+Confidence: 	1.942
+
+SyncNet output for vUaBmHw2pAo-clip-003.mp4:
+AV offset: 	0 
+Min dist: 	10.003
+Confidence: 	2.534
+
+SyncNet output for vUaBmHw2pAo-clip-004.mp4:
+AV offset: 	0 
+Min dist: 	10.086
+Confidence: 	2.006
+
+SyncNet output for vUaBmHw2pAo-clip-005.mp4:
+AV offset: 	0 
+Min dist: 	10.255
+Confidence: 	1.671
+
+SyncNet output for vUaBmHw2pAo-clip-006.mp4:
+AV offset: 	0 
+Min dist: 	10.354
+Confidence: 	1.666
+
+SyncNet output for vUaBmHw2pAo-clip-007.mp4:
+AV offset: 	0 
+Min dist: 	9.673
+Confidence: 	1.805
+
+SyncNet output for vUaBmHw2pAo-clip-008.mp4:
+AV offset: 	0 
+Min dist: 	9.789
+Confidence: 	1.928
+
+SyncNet output for vUaBmHw2pAo-clip-009.mp4:
+AV offset: 	0 
+Min dist: 	9.753
+Confidence: 	1.936
+
+SyncNet output for vUaBmHw2pAo-clip-010.mp4:
+AV offset: 	0 
+Min dist: 	10.430
+Confidence: 	1.849
+
+SyncNet output for vUaBmHw2pAo-clip-011.mp4:
+AV offset: 	0 
+Min dist: 	10.273
+Confidence: 	1.811
+
+SyncNet output for vUaBmHw2pAo-clip-012.mp4:
+AV offset: 	0 
+Min dist: 	10.235
+Confidence: 	2.088
+
+SyncNet output for vUaBmHw2pAo-clip-013.mp4:
+AV offset: 	0 
+Min dist: 	10.636
+Confidence: 	1.817
+
+SyncNet output for vUaBmHw2pAo-clip-014.mp4:
+AV offset: 	0 
+Min dist: 	10.571
+Confidence: 	1.808
+
+SyncNet output for vUaBmHw2pAo-clip-015.mp4:
+AV offset: 	0 
+Min dist: 	10.778
+Confidence: 	1.342
+
+SyncNet output for vUaBmHw2pAo-clip-016.mp4:
+AV offset: 	0 
+Min dist: 	10.129
+Confidence: 	2.245
+
+SyncNet output for vUaBmHw2pAo-clip-017.mp4:
+AV offset: 	0 
+Min dist: 	10.373
+Confidence: 	1.551
+
+SyncNet output for vUaBmHw2pAo-clip-018.mp4:
+AV offset: 	0 
+Min dist: 	10.181
+Confidence: 	2.010
+
+SyncNet output for vUaBmHw2pAo-clip-019.mp4:
+AV offset: 	0 
+Min dist: 	9.972
+Confidence: 	2.283
+
+SyncNet output for vUaBmHw2pAo-clip-020.mp4:
+AV offset: 	0 
+Min dist: 	9.816
+Confidence: 	1.602
+
+SyncNet output for vUaBmHw2pAo-clip-021.mp4:
+AV offset: 	0 
+Min dist: 	9.734
+Confidence: 	2.658
+
+SyncNet output for vUaBmHw2pAo-clip-022.mp4:
+AV offset: 	0 
+Min dist: 	10.194
+Confidence: 	2.126
+
+SyncNet output for vUaBmHw2pAo-clip-023.mp4:
+AV offset: 	0 
+Min dist: 	10.389
+Confidence: 	2.268
+
+SyncNet output for vUaBmHw2pAo-clip-024.mp4:
+AV offset: 	0 
+Min dist: 	10.725
+Confidence: 	1.816
+
+SyncNet output for vUaBmHw2pAo-clip-025.mp4:
+AV offset: 	0 
+Min dist: 	10.612
+Confidence: 	1.108
+
+=========================================================
+
+SyncNet output for x8_3HQ6fvfo.mp4:
+=========================================================
+SyncNet output for x8_3HQ6fvfo-clip-000.mp4:
+AV offset: 	-15 
+Min dist: 	13.280
+Confidence: 	0.177
+
+SyncNet output for x8_3HQ6fvfo-clip-001.mp4:
+AV offset: 	12 
+Min dist: 	13.459
+Confidence: 	0.144
+
+SyncNet output for x8_3HQ6fvfo-clip-002.mp4:
+AV offset: 	-7 
+Min dist: 	13.398
+Confidence: 	0.203
+
+SyncNet output for x8_3HQ6fvfo-clip-003.mp4:
+AV offset: 	-15 
+Min dist: 	13.805
+Confidence: 	0.180
+
+SyncNet output for x8_3HQ6fvfo-clip-004.mp4:
+AV offset: 	0 
+Min dist: 	13.980
+Confidence: 	0.178
+
+SyncNet output for x8_3HQ6fvfo-clip-005.mp4:
+AV offset: 	-8 
+Min dist: 	14.203
+Confidence: 	0.176
+
+SyncNet output for x8_3HQ6fvfo-clip-006.mp4:
+AV offset: 	-14 
+Min dist: 	13.627
+Confidence: 	0.201
+
+SyncNet output for x8_3HQ6fvfo-clip-007.mp4:
+AV offset: 	0 
+Min dist: 	14.039
+Confidence: 	0.166
+
+SyncNet output for x8_3HQ6fvfo-clip-008.mp4:
+AV offset: 	9 
+Min dist: 	13.847
+Confidence: 	0.134
+
+SyncNet output for x8_3HQ6fvfo-clip-009.mp4:
+AV offset: 	-1 
+Min dist: 	13.559
+Confidence: 	0.077
+
+SyncNet output for x8_3HQ6fvfo-clip-010.mp4:
+AV offset: 	-12 
+Min dist: 	13.800
+Confidence: 	0.250
+
+SyncNet output for x8_3HQ6fvfo-clip-011.mp4:
+AV offset: 	-1 
+Min dist: 	13.843
+Confidence: 	0.201
+
+SyncNet output for x8_3HQ6fvfo-clip-012.mp4:
+AV offset: 	-8 
+Min dist: 	13.679
+Confidence: 	0.297
+
+SyncNet output for x8_3HQ6fvfo-clip-013.mp4:
+AV offset: 	-15 
+Min dist: 	13.087
+Confidence: 	0.196
+
+=========================================================
+
+SyncNet output for zH_YIUBwXD0.mp4:
+=========================================================
+SyncNet output for zH_YIUBwXD0-clip-000.mp4:
+AV offset: 	-3 
+Min dist: 	12.307
+Confidence: 	1.839
+
+SyncNet output for zH_YIUBwXD0-clip-001.mp4:
+AV offset: 	-3 
+Min dist: 	11.311
+Confidence: 	2.156
+
+SyncNet output for zH_YIUBwXD0-clip-002.mp4:
+AV offset: 	-3 
+Min dist: 	11.230
+Confidence: 	1.922
+
+SyncNet output for zH_YIUBwXD0-clip-003.mp4:
+AV offset: 	-3 
+Min dist: 	11.880
+Confidence: 	1.349
+
+SyncNet output for zH_YIUBwXD0-clip-004.mp4:
+AV offset: 	-3 
+Min dist: 	11.339
+Confidence: 	1.805
+
+SyncNet output for zH_YIUBwXD0-clip-005.mp4:
+AV offset: 	-3 
+Min dist: 	11.962
+Confidence: 	1.707
+
+SyncNet output for zH_YIUBwXD0-clip-006.mp4:
+AV offset: 	-3 
+Min dist: 	11.443
+Confidence: 	2.123
+
+SyncNet output for zH_YIUBwXD0-clip-007.mp4:
+AV offset: 	-3 
+Min dist: 	11.241
+Confidence: 	2.079
+
+SyncNet output for zH_YIUBwXD0-clip-008.mp4:
+AV offset: 	-3 
+Min dist: 	11.470
+Confidence: 	1.825
+
+SyncNet output for zH_YIUBwXD0-clip-009.mp4:
+AV offset: 	-3 
+Min dist: 	9.843
+Confidence: 	1.548
+
+=========================================================
+

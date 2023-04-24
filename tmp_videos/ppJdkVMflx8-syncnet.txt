@@ -1,8 +1,80 @@
-Model syncnet/data/syncnet_v2.model loaded.
-WARNING: Audio (59.0080s) and video (59.0400s) lengths are different.
-Compute time 6.043 sec.
-Framewise conf: 
-[ 3.322  3.439  4.419 ...  1.815  1.815  1.239]
+SyncNet output for ppJdkVMflx8-clip-000.mp4:
 AV offset: 	-2 
-Min dist: 	12.360
-Confidence: 	0.503
+Min dist: 	12.334
+Confidence: 	0.605
+
+SyncNet output for ppJdkVMflx8-clip-001.mp4:
+AV offset: 	-1 
+Min dist: 	12.922
+Confidence: 	0.743
+
+SyncNet output for ppJdkVMflx8-clip-002.mp4:
+AV offset: 	-1 
+Min dist: 	13.087
+Confidence: 	0.372
+
+SyncNet output for ppJdkVMflx8-clip-003.mp4:
+AV offset: 	-1 
+Min dist: 	13.533
+Confidence: 	0.334
+
+SyncNet output for ppJdkVMflx8-clip-004.mp4:
+AV offset: 	-1 
+Min dist: 	13.090
+Confidence: 	0.910
+
+SyncNet output for ppJdkVMflx8-clip-005.mp4:
+AV offset: 	-1 
+Min dist: 	13.039
+Confidence: 	1.068
+
+SyncNet output for ppJdkVMflx8-clip-006.mp4:
+AV offset: 	-1 
+Min dist: 	13.346
+Confidence: 	0.690
+
+SyncNet output for ppJdkVMflx8-clip-007.mp4:
+AV offset: 	-1 
+Min dist: 	13.465
+Confidence: 	0.643
+
+SyncNet output for ppJdkVMflx8-clip-008.mp4:
+AV offset: 	-1 
+Min dist: 	12.593
+Confidence: 	1.030
+
+SyncNet output for ppJdkVMflx8-clip-009.mp4:
+AV offset: 	-1 
+Min dist: 	12.823
+Confidence: 	0.647
+
+SyncNet output for ppJdkVMflx8-clip-010.mp4:
+AV offset: 	-1 
+Min dist: 	12.964
+Confidence: 	1.023
+
+SyncNet output for ppJdkVMflx8-clip-011.mp4:
+AV offset: 	-1 
+Min dist: 	13.158
+Confidence: 	1.129
+
+SyncNet output for ppJdkVMflx8-clip-012.mp4:
+AV offset: 	-1 
+Min dist: 	13.281
+Confidence: 	0.941
+
+SyncNet output for ppJdkVMflx8-clip-013.mp4:
+AV offset: 	-1 
+Min dist: 	13.175
+Confidence: 	0.748
+
+SyncNet output for ppJdkVMflx8-clip-014.mp4:
+AV offset: 	-1 
+Min dist: 	12.638
+Confidence: 	1.116
+
+SyncNet output for ppJdkVMflx8-clip-015.mp4:
+AV offset: 	-1 
+Min dist: 	12.335
+Confidence: 	0.931
+

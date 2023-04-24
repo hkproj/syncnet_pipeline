@@ -1,0 +1,70 @@
+SyncNet output for fixed-4XVg57NjwM-clip-000.mp4:
+AV offset: 	1 
+Min dist: 	10.595
+Confidence: 	2.554
+
+SyncNet output for fixed-4XVg57NjwM-clip-001.mp4:
+AV offset: 	2 
+Min dist: 	10.129
+Confidence: 	0.997
+
+SyncNet output for fixed-4XVg57NjwM-clip-002.mp4:
+AV offset: 	2 
+Min dist: 	10.763
+Confidence: 	0.892
+
+SyncNet output for fixed-4XVg57NjwM-clip-003.mp4:
+AV offset: 	2 
+Min dist: 	10.369
+Confidence: 	1.521
+
+SyncNet output for fixed-4XVg57NjwM-clip-004.mp4:
+AV offset: 	2 
+Min dist: 	10.886
+Confidence: 	1.367
+
+SyncNet output for fixed-4XVg57NjwM-clip-005.mp4:
+AV offset: 	1 
+Min dist: 	11.148
+Confidence: 	1.299
+
+SyncNet output for fixed-4XVg57NjwM-clip-006.mp4:
+AV offset: 	1 
+Min dist: 	11.910
+Confidence: 	0.407
+
+SyncNet output for fixed-4XVg57NjwM-clip-007.mp4:
+AV offset: 	1 
+Min dist: 	11.386
+Confidence: 	0.837
+
+SyncNet output for fixed-4XVg57NjwM-clip-008.mp4:
+AV offset: 	1 
+Min dist: 	10.858
+Confidence: 	0.747
+
+SyncNet output for fixed-4XVg57NjwM-clip-009.mp4:
+AV offset: 	2 
+Min dist: 	10.279
+Confidence: 	0.323
+
+SyncNet output for fixed-4XVg57NjwM-clip-010.mp4:
+AV offset: 	1 
+Min dist: 	9.721
+Confidence: 	0.726
+
+SyncNet output for fixed-4XVg57NjwM-clip-011.mp4:
+AV offset: 	1 
+Min dist: 	10.294
+Confidence: 	1.281
+
+SyncNet output for fixed-4XVg57NjwM-clip-012.mp4:
+AV offset: 	2 
+Min dist: 	10.371
+Confidence: 	2.054
+
+SyncNet output for fixed-4XVg57NjwM-clip-013.mp4:
+AV offset: 	1 
+Min dist: 	9.996
+Confidence: 	2.241
+

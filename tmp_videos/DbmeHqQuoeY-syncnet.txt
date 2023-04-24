@@ -1,8 +1,110 @@
-Model syncnet/data/syncnet_v2.model loaded.
-WARNING: Audio (59.0080s) and video (59.0000s) lengths are different.
-Compute time 5.613 sec.
-Framewise conf: 
-[ 0.000  0.000  0.185 ...  3.129  2.998  2.537]
+SyncNet output for DbmeHqQuoeY-clip-000.mp4:
 AV offset: 	-3 
-Min dist: 	13.407
+Min dist: 	13.452
 Confidence: 	0.737
+
+SyncNet output for DbmeHqQuoeY-clip-001.mp4:
+AV offset: 	-3 
+Min dist: 	13.123
+Confidence: 	0.673
+
+SyncNet output for DbmeHqQuoeY-clip-002.mp4:
+AV offset: 	-3 
+Min dist: 	13.445
+Confidence: 	0.742
+
+SyncNet output for DbmeHqQuoeY-clip-003.mp4:
+AV offset: 	-3 
+Min dist: 	13.545
+Confidence: 	0.585
+
+SyncNet output for DbmeHqQuoeY-clip-004.mp4:
+AV offset: 	-3 
+Min dist: 	13.853
+Confidence: 	0.646
+
+SyncNet output for DbmeHqQuoeY-clip-005.mp4:
+AV offset: 	-3 
+Min dist: 	13.602
+Confidence: 	0.720
+
+SyncNet output for DbmeHqQuoeY-clip-006.mp4:
+AV offset: 	-3 
+Min dist: 	13.874
+Confidence: 	0.728
+
+SyncNet output for DbmeHqQuoeY-clip-007.mp4:
+AV offset: 	-3 
+Min dist: 	13.389
+Confidence: 	0.877
+
+SyncNet output for DbmeHqQuoeY-clip-008.mp4:
+AV offset: 	-3 
+Min dist: 	13.465
+Confidence: 	0.744
+
+SyncNet output for DbmeHqQuoeY-clip-009.mp4:
+AV offset: 	-3 
+Min dist: 	13.979
+Confidence: 	0.681
+
+SyncNet output for DbmeHqQuoeY-clip-010.mp4:
+AV offset: 	-3 
+Min dist: 	13.403
+Confidence: 	0.970
+
+SyncNet output for DbmeHqQuoeY-clip-011.mp4:
+AV offset: 	-3 
+Min dist: 	13.307
+Confidence: 	0.891
+
+SyncNet output for DbmeHqQuoeY-clip-012.mp4:
+AV offset: 	-3 
+Min dist: 	13.339
+Confidence: 	0.715
+
+SyncNet output for DbmeHqQuoeY-clip-013.mp4:
+AV offset: 	-3 
+Min dist: 	13.233
+Confidence: 	0.687
+
+SyncNet output for DbmeHqQuoeY-clip-014.mp4:
+AV offset: 	-3 
+Min dist: 	12.963
+Confidence: 	0.774
+
+SyncNet output for DbmeHqQuoeY-clip-015.mp4:
+AV offset: 	-3 
+Min dist: 	12.374
+Confidence: 	0.897
+
+SyncNet output for DbmeHqQuoeY-clip-016.mp4:
+AV offset: 	-3 
+Min dist: 	13.059
+Confidence: 	0.928
+
+SyncNet output for DbmeHqQuoeY-clip-017.mp4:
+AV offset: 	-3 
+Min dist: 	12.452
+Confidence: 	1.176
+
+SyncNet output for DbmeHqQuoeY-clip-018.mp4:
+AV offset: 	-3 
+Min dist: 	13.289
+Confidence: 	0.962
+
+SyncNet output for DbmeHqQuoeY-clip-019.mp4:
+AV offset: 	-3 
+Min dist: 	13.304
+Confidence: 	0.786
+
+SyncNet output for DbmeHqQuoeY-clip-020.mp4:
+AV offset: 	-3 
+Min dist: 	13.012
+Confidence: 	0.814
+
+SyncNet output for DbmeHqQuoeY-clip-021.mp4:
+AV offset: 	-3 
+Min dist: 	12.890
+Confidence: 	0.835
+

@@ -1,8 +1,60 @@
-Model syncnet/data/syncnet_v2.model loaded.
-WARNING: Audio (59.0080s) and video (59.0000s) lengths are different.
-Compute time 5.868 sec.
-Framewise conf: 
-[ 2.525  2.525  2.828 ...  2.998  1.925  1.022]
+SyncNet output for pVFiRhxFc2U-clip-000.mp4:
 AV offset: 	-3 
-Min dist: 	9.983
-Confidence: 	3.710
+Min dist: 	9.960
+Confidence: 	3.797
+
+SyncNet output for pVFiRhxFc2U-clip-001.mp4:
+AV offset: 	-3 
+Min dist: 	9.742
+Confidence: 	4.007
+
+SyncNet output for pVFiRhxFc2U-clip-002.mp4:
+AV offset: 	-3 
+Min dist: 	9.824
+Confidence: 	4.375
+
+SyncNet output for pVFiRhxFc2U-clip-003.mp4:
+AV offset: 	-3 
+Min dist: 	10.375
+Confidence: 	3.615
+
+SyncNet output for pVFiRhxFc2U-clip-004.mp4:
+AV offset: 	-3 
+Min dist: 	9.994
+Confidence: 	4.017
+
+SyncNet output for pVFiRhxFc2U-clip-005.mp4:
+AV offset: 	-3 
+Min dist: 	9.342
+Confidence: 	4.653
+
+SyncNet output for pVFiRhxFc2U-clip-006.mp4:
+AV offset: 	-3 
+Min dist: 	10.269
+Confidence: 	3.432
+
+SyncNet output for pVFiRhxFc2U-clip-007.mp4:
+AV offset: 	-3 
+Min dist: 	9.843
+Confidence: 	3.911
+
+SyncNet output for pVFiRhxFc2U-clip-008.mp4:
+AV offset: 	-3 
+Min dist: 	9.606
+Confidence: 	4.368
+
+SyncNet output for pVFiRhxFc2U-clip-009.mp4:
+AV offset: 	-3 
+Min dist: 	10.216
+Confidence: 	3.779
+
+SyncNet output for pVFiRhxFc2U-clip-010.mp4:
+AV offset: 	-3 
+Min dist: 	10.328
+Confidence: 	3.730
+
+SyncNet output for pVFiRhxFc2U-clip-011.mp4:
+AV offset: 	-3 
+Min dist: 	10.678
+Confidence: 	2.546
+

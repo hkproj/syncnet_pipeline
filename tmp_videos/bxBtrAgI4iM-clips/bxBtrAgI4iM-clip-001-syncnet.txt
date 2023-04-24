@@ -1,0 +1,8 @@
+Model syncnet/data/syncnet_v2.model loaded.
+WARNING: Audio (58.3680s) and video (58.3600s) lengths are different.
+Compute time 5.696 sec.
+Framewise conf: 
+[ 0.000  0.000 -0.786 ...  5.367  5.367  5.367]
+AV offset: 	-15 
+Min dist: 	14.465
+Confidence: 	0.103

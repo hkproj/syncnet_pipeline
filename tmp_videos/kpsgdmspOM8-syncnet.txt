@@ -1,8 +1,95 @@
-Model syncnet/data/syncnet_v2.model loaded.
-WARNING: Audio (59.0080s) and video (59.0000s) lengths are different.
-Compute time 5.692 sec.
-Framewise conf: 
-[ 0.000  0.424  0.424 ...  0.000  0.000  0.000]
+SyncNet output for kpsgdmspOM8-clip-000.mp4:
 AV offset: 	-1 
-Min dist: 	10.178
-Confidence: 	1.823
+Min dist: 	10.190
+Confidence: 	1.864
+
+SyncNet output for kpsgdmspOM8-clip-001.mp4:
+AV offset: 	-1 
+Min dist: 	9.841
+Confidence: 	2.416
+
+SyncNet output for kpsgdmspOM8-clip-002.mp4:
+AV offset: 	-1 
+Min dist: 	9.627
+Confidence: 	2.983
+
+SyncNet output for kpsgdmspOM8-clip-003.mp4:
+AV offset: 	-1 
+Min dist: 	10.269
+Confidence: 	2.846
+
+SyncNet output for kpsgdmspOM8-clip-004.mp4:
+AV offset: 	-1 
+Min dist: 	9.326
+Confidence: 	3.032
+
+SyncNet output for kpsgdmspOM8-clip-005.mp4:
+AV offset: 	-1 
+Min dist: 	9.188
+Confidence: 	3.374
+
+SyncNet output for kpsgdmspOM8-clip-006.mp4:
+AV offset: 	-1 
+Min dist: 	9.848
+Confidence: 	2.228
+
+SyncNet output for kpsgdmspOM8-clip-007.mp4:
+AV offset: 	-1 
+Min dist: 	9.679
+Confidence: 	2.615
+
+SyncNet output for kpsgdmspOM8-clip-008.mp4:
+AV offset: 	-1 
+Min dist: 	9.614
+Confidence: 	2.640
+
+SyncNet output for kpsgdmspOM8-clip-009.mp4:
+AV offset: 	-1 
+Min dist: 	9.455
+Confidence: 	2.745
+
+SyncNet output for kpsgdmspOM8-clip-010.mp4:
+AV offset: 	-1 
+Min dist: 	9.744
+Confidence: 	2.496
+
+SyncNet output for kpsgdmspOM8-clip-011.mp4:
+AV offset: 	-1 
+Min dist: 	9.420
+Confidence: 	2.553
+
+SyncNet output for kpsgdmspOM8-clip-012.mp4:
+AV offset: 	-1 
+Min dist: 	9.612
+Confidence: 	2.755
+
+SyncNet output for kpsgdmspOM8-clip-013.mp4:
+AV offset: 	-1 
+Min dist: 	9.656
+Confidence: 	2.562
+
+SyncNet output for kpsgdmspOM8-clip-014.mp4:
+AV offset: 	-1 
+Min dist: 	9.310
+Confidence: 	2.993
+
+SyncNet output for kpsgdmspOM8-clip-015.mp4:
+AV offset: 	-1 
+Min dist: 	9.692
+Confidence: 	2.293
+
+SyncNet output for kpsgdmspOM8-clip-016.mp4:
+AV offset: 	-1 
+Min dist: 	9.551
+Confidence: 	3.282
+
+SyncNet output for kpsgdmspOM8-clip-017.mp4:
+AV offset: 	-1 
+Min dist: 	9.236
+Confidence: 	3.215
+
+SyncNet output for kpsgdmspOM8-clip-018.mp4:
+AV offset: 	-1 
+Min dist: 	8.713
+Confidence: 	3.460
+

@@ -1,8 +1,85 @@
-Model syncnet/data/syncnet_v2.model loaded.
-WARNING: Audio (59.0080s) and video (59.0000s) lengths are different.
-Compute time 5.688 sec.
-Framewise conf: 
-[ 0.000  0.000  0.000 ...  0.231  0.000  0.000]
+SyncNet output for HfyGwiepb1s-clip-000.mp4:
+AV offset: 	-2 
+Min dist: 	13.186
+Confidence: 	0.540
+
+SyncNet output for HfyGwiepb1s-clip-001.mp4:
+AV offset: 	10 
+Min dist: 	13.301
+Confidence: 	0.231
+
+SyncNet output for HfyGwiepb1s-clip-002.mp4:
+AV offset: 	-2 
+Min dist: 	13.278
+Confidence: 	0.668
+
+SyncNet output for HfyGwiepb1s-clip-003.mp4:
 AV offset: 	-3 
-Min dist: 	13.107
-Confidence: 	0.579
+Min dist: 	13.180
+Confidence: 	0.910
+
+SyncNet output for HfyGwiepb1s-clip-004.mp4:
+AV offset: 	-3 
+Min dist: 	13.685
+Confidence: 	0.348
+
+SyncNet output for HfyGwiepb1s-clip-005.mp4:
+AV offset: 	-3 
+Min dist: 	13.376
+Confidence: 	0.622
+
+SyncNet output for HfyGwiepb1s-clip-006.mp4:
+AV offset: 	-3 
+Min dist: 	12.849
+Confidence: 	0.969
+
+SyncNet output for HfyGwiepb1s-clip-007.mp4:
+AV offset: 	-3 
+Min dist: 	13.150
+Confidence: 	0.704
+
+SyncNet output for HfyGwiepb1s-clip-008.mp4:
+AV offset: 	-3 
+Min dist: 	13.404
+Confidence: 	0.695
+
+SyncNet output for HfyGwiepb1s-clip-009.mp4:
+AV offset: 	-3 
+Min dist: 	13.367
+Confidence: 	0.645
+
+SyncNet output for HfyGwiepb1s-clip-010.mp4:
+AV offset: 	-3 
+Min dist: 	13.085
+Confidence: 	0.830
+
+SyncNet output for HfyGwiepb1s-clip-011.mp4:
+AV offset: 	-3 
+Min dist: 	13.177
+Confidence: 	0.915
+
+SyncNet output for HfyGwiepb1s-clip-012.mp4:
+AV offset: 	-3 
+Min dist: 	13.498
+Confidence: 	0.413
+
+SyncNet output for HfyGwiepb1s-clip-013.mp4:
+AV offset: 	-4 
+Min dist: 	13.332
+Confidence: 	0.687
+
+SyncNet output for HfyGwiepb1s-clip-014.mp4:
+AV offset: 	-4 
+Min dist: 	13.339
+Confidence: 	0.876
+
+SyncNet output for HfyGwiepb1s-clip-015.mp4:
+AV offset: 	-4 
+Min dist: 	13.714
+Confidence: 	0.371
+
+SyncNet output for HfyGwiepb1s-clip-016.mp4:
+AV offset: 	-4 
+Min dist: 	9.830
+Confidence: 	0.400
+

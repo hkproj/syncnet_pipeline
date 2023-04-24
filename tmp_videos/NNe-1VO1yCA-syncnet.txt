@@ -1,8 +1,55 @@
-Model syncnet/data/syncnet_v2.model loaded.
-WARNING: Audio (59.0080s) and video (59.0000s) lengths are different.
-Compute time 5.515 sec.
-Framewise conf: 
-[ 1.642  1.642  1.642 ... -0.249  0.000  0.000]
+SyncNet output for NNe-1VO1yCA-clip-000.mp4:
 AV offset: 	-1 
-Min dist: 	13.481
+Min dist: 	13.507
+Confidence: 	0.785
+
+SyncNet output for NNe-1VO1yCA-clip-001.mp4:
+AV offset: 	-1 
+Min dist: 	13.709
+Confidence: 	0.596
+
+SyncNet output for NNe-1VO1yCA-clip-002.mp4:
+AV offset: 	-1 
+Min dist: 	13.572
+Confidence: 	0.838
+
+SyncNet output for NNe-1VO1yCA-clip-003.mp4:
+AV offset: 	-1 
+Min dist: 	13.624
+Confidence: 	0.691
+
+SyncNet output for NNe-1VO1yCA-clip-004.mp4:
+AV offset: 	-1 
+Min dist: 	13.233
 Confidence: 	0.801
+
+SyncNet output for NNe-1VO1yCA-clip-005.mp4:
+AV offset: 	-1 
+Min dist: 	13.296
+Confidence: 	0.646
+
+SyncNet output for NNe-1VO1yCA-clip-006.mp4:
+AV offset: 	-1 
+Min dist: 	13.637
+Confidence: 	0.889
+
+SyncNet output for NNe-1VO1yCA-clip-007.mp4:
+AV offset: 	-1 
+Min dist: 	13.277
+Confidence: 	0.961
+
+SyncNet output for NNe-1VO1yCA-clip-008.mp4:
+AV offset: 	-1 
+Min dist: 	12.328
+Confidence: 	1.267
+
+SyncNet output for NNe-1VO1yCA-clip-009.mp4:
+AV offset: 	-1 
+Min dist: 	11.634
+Confidence: 	1.368
+
+SyncNet output for NNe-1VO1yCA-clip-010.mp4:
+AV offset: 	-2 
+Min dist: 	12.412
+Confidence: 	0.681
+

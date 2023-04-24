@@ -1,8 +1,35 @@
-Model syncnet/data/syncnet_v2.model loaded.
-WARNING: Audio (59.0080s) and video (59.0400s) lengths are different.
-Compute time 5.585 sec.
-Framewise conf: 
-[ 0.000  0.000  0.000 ...  0.000  0.000  0.000]
+SyncNet output for FC1_j3zJt20-clip-000.mp4:
 AV offset: 	-3 
-Min dist: 	13.808
-Confidence: 	0.512
+Min dist: 	13.761
+Confidence: 	0.587
+
+SyncNet output for FC1_j3zJt20-clip-001.mp4:
+AV offset: 	-3 
+Min dist: 	12.762
+Confidence: 	1.275
+
+SyncNet output for FC1_j3zJt20-clip-002.mp4:
+AV offset: 	-3 
+Min dist: 	13.837
+Confidence: 	0.306
+
+SyncNet output for FC1_j3zJt20-clip-003.mp4:
+AV offset: 	-14 
+Min dist: 	14.035
+Confidence: 	0.260
+
+SyncNet output for FC1_j3zJt20-clip-004.mp4:
+AV offset: 	14 
+Min dist: 	13.292
+Confidence: 	0.157
+
+SyncNet output for FC1_j3zJt20-clip-005.mp4:
+AV offset: 	-3 
+Min dist: 	12.974
+Confidence: 	0.221
+
+SyncNet output for FC1_j3zJt20-clip-006.mp4:
+AV offset: 	-2 
+Min dist: 	11.768
+Confidence: 	1.660
+

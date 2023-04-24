@@ -1,8 +1,25 @@
-Model syncnet/data/syncnet_v2.model loaded.
-WARNING: Audio (59.0080s) and video (59.0000s) lengths are different.
-Compute time 6.135 sec.
-Framewise conf: 
-[ 0.000  0.000  0.000 ... -0.716  0.000  0.000]
+SyncNet output for 1ULE81gYxmA-clip-000.mp4:
 AV offset: 	1 
-Min dist: 	12.710
-Confidence: 	0.426
+Min dist: 	12.756
+Confidence: 	0.435
+
+SyncNet output for 1ULE81gYxmA-clip-001.mp4:
+AV offset: 	1 
+Min dist: 	13.412
+Confidence: 	0.351
+
+SyncNet output for 1ULE81gYxmA-clip-002.mp4:
+AV offset: 	9 
+Min dist: 	13.378
+Confidence: 	0.179
+
+SyncNet output for 1ULE81gYxmA-clip-003.mp4:
+AV offset: 	1 
+Min dist: 	13.467
+Confidence: 	0.322
+
+SyncNet output for 1ULE81gYxmA-clip-004.mp4:
+AV offset: 	1 
+Min dist: 	12.737
+Confidence: 	0.289
+

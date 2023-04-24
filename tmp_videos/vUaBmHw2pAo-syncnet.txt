@@ -1,8 +1,130 @@
-Model syncnet/data/syncnet_v2.model loaded.
-WARNING: Audio (59.0080s) and video (59.0000s) lengths are different.
-Compute time 6.106 sec.
-Framewise conf: 
-[ 2.895  4.604  4.604 ...  0.026  0.000  0.000]
+SyncNet output for vUaBmHw2pAo-clip-000.mp4:
 AV offset: 	0 
-Min dist: 	9.716
-Confidence: 	2.589
+Min dist: 	9.691
+Confidence: 	2.498
+
+SyncNet output for vUaBmHw2pAo-clip-001.mp4:
+AV offset: 	0 
+Min dist: 	10.232
+Confidence: 	1.991
+
+SyncNet output for vUaBmHw2pAo-clip-002.mp4:
+AV offset: 	0 
+Min dist: 	10.310
+Confidence: 	1.942
+
+SyncNet output for vUaBmHw2pAo-clip-003.mp4:
+AV offset: 	0 
+Min dist: 	10.003
+Confidence: 	2.534
+
+SyncNet output for vUaBmHw2pAo-clip-004.mp4:
+AV offset: 	0 
+Min dist: 	10.086
+Confidence: 	2.006
+
+SyncNet output for vUaBmHw2pAo-clip-005.mp4:
+AV offset: 	0 
+Min dist: 	10.255
+Confidence: 	1.671
+
+SyncNet output for vUaBmHw2pAo-clip-006.mp4:
+AV offset: 	0 
+Min dist: 	10.354
+Confidence: 	1.666
+
+SyncNet output for vUaBmHw2pAo-clip-007.mp4:
+AV offset: 	0 
+Min dist: 	9.673
+Confidence: 	1.805
+
+SyncNet output for vUaBmHw2pAo-clip-008.mp4:
+AV offset: 	0 
+Min dist: 	9.789
+Confidence: 	1.928
+
+SyncNet output for vUaBmHw2pAo-clip-009.mp4:
+AV offset: 	0 
+Min dist: 	9.753
+Confidence: 	1.936
+
+SyncNet output for vUaBmHw2pAo-clip-010.mp4:
+AV offset: 	0 
+Min dist: 	10.430
+Confidence: 	1.849
+
+SyncNet output for vUaBmHw2pAo-clip-011.mp4:
+AV offset: 	0 
+Min dist: 	10.273
+Confidence: 	1.811
+
+SyncNet output for vUaBmHw2pAo-clip-012.mp4:
+AV offset: 	0 
+Min dist: 	10.235
+Confidence: 	2.088
+
+SyncNet output for vUaBmHw2pAo-clip-013.mp4:
+AV offset: 	0 
+Min dist: 	10.636
+Confidence: 	1.817
+
+SyncNet output for vUaBmHw2pAo-clip-014.mp4:
+AV offset: 	0 
+Min dist: 	10.571
+Confidence: 	1.808
+
+SyncNet output for vUaBmHw2pAo-clip-015.mp4:
+AV offset: 	0 
+Min dist: 	10.778
+Confidence: 	1.342
+
+SyncNet output for vUaBmHw2pAo-clip-016.mp4:
+AV offset: 	0 
+Min dist: 	10.129
+Confidence: 	2.245
+
+SyncNet output for vUaBmHw2pAo-clip-017.mp4:
+AV offset: 	0 
+Min dist: 	10.373
+Confidence: 	1.551
+
+SyncNet output for vUaBmHw2pAo-clip-018.mp4:
+AV offset: 	0 
+Min dist: 	10.181
+Confidence: 	2.010
+
+SyncNet output for vUaBmHw2pAo-clip-019.mp4:
+AV offset: 	0 
+Min dist: 	9.972
+Confidence: 	2.283
+
+SyncNet output for vUaBmHw2pAo-clip-020.mp4:
+AV offset: 	0 
+Min dist: 	9.816
+Confidence: 	1.602
+
+SyncNet output for vUaBmHw2pAo-clip-021.mp4:
+AV offset: 	0 
+Min dist: 	9.734
+Confidence: 	2.658
+
+SyncNet output for vUaBmHw2pAo-clip-022.mp4:
+AV offset: 	0 
+Min dist: 	10.194
+Confidence: 	2.126
+
+SyncNet output for vUaBmHw2pAo-clip-023.mp4:
+AV offset: 	0 
+Min dist: 	10.389
+Confidence: 	2.268
+
+SyncNet output for vUaBmHw2pAo-clip-024.mp4:
+AV offset: 	0 
+Min dist: 	10.725
+Confidence: 	1.816
+
+SyncNet output for vUaBmHw2pAo-clip-025.mp4:
+AV offset: 	0 
+Min dist: 	10.612
+Confidence: 	1.108
+
