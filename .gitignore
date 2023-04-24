@@ -1,7 +1,6 @@
 # Pipeline folders
-input_videos
-tmp_syncnet
-syncnet_temp
+input/
+tmp_syncnet/
 
 # Compiled source #
 ###################

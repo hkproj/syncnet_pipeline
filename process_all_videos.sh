@@ -1,3 +1,6 @@
+# Send everything to a syslog file
+#exec 1> >(logger -s -t $(basename $0)) 2>&1
+
 delete_temp=false
 
 # If there is a command line argument (at any position) with "--delete-temp", then set the flag to true
@@ -8,13 +11,13 @@ do
     fi
 done
 
-input_dir=input_videos
+input_dir=input
 temp_dir=tmp_videos
-output_dir=output_videos
+output_dir=output
 syncnet_temp=tmp_syncnet
 syncnet=syncnet/demo_syncnet.py
 syncnet_model=syncnet/data/syncnet_v2.model
-report_file=output_videos/report.txt
+report_file=$output_dir/report.txt
 
 # Delete everything in temp folder only if the flag is true
 if [ "$delete_temp" = true ] ; then
@@ -51,40 +54,65 @@ do
             rm -rf "$syncnet_temp"
             mkdir -p "$syncnet_temp"
 
+            # Delete directory for clips if it already exists
+            rm -rf "$temp_dir/$filenameWithoutExtension-clips"
+
+            # Make directory for clips
+            mkdir -p "$temp_dir/$filenameWithoutExtension-clips"
+
             clip_duration=59
-            echo "Getting first $clip_duration seconds of video"
-            # Get filename for the clip video
-            temp_filename_clip="$temp_dir/$filenameWithoutExtension-clip.mp4"
-            # Run ffmpeg to extract the first $clip_duration seconds of the original video into the clip file
-            ffmpeg -y -i "$entry" -ss 00:00:00 -t 00:00:$clip_duration -c:a copy "$temp_filename_clip"
+            # Split the original file into many chunks of duration defined by $clip_duration
+            # Example command: ffmpeg -i input.mp4 -c copy -map 0 -segment_time 00:00:20 -f segment -reset_timestamps 1 output%03d.mp4
+            echo "Splitting original video into many chunks of $clip_duration seconds"
+            temp_filename_clips="$temp_dir/$filenameWithoutExtension-clips/$filenameWithoutExtension-clip-%03d.mp4"
+            ffmpeg -y -i "$entry" -c copy -map 0 -segment_time 00:00:$clip_duration -f segment -reset_timestamps 1 "$temp_filename_clips"
 
-            echo "Changing video $filename to have 25fps"
-            # Get the temporary filename for the 25fps video
-            temp_filename_25fps="$temp_dir/$filenameWithoutExtension-clip-25fps.mp4"
-            # Run ffmpeg to change the FPS of the input video to 25 and save it to the output file
-            ffmpeg -y -i "$temp_filename_clip" -filter:v fps=25 "$temp_filename_25fps"
+            for clipFilePath in "$temp_dir/$filenameWithoutExtension-clips"/*
+            do
+                if [ -f $clipFilePath ]; then
+                    # Get the filename from each file
+                    clipFileName=$(basename "$clipFilePath")
+                    # Get the filename without extension
+                    clipFileNameWithoutExtension="${clipFileName%.*}"    
 
-            echo "Changing video $filename to have 16kHz audio"
-            # Get the temporary filename for the video with audio in 16kHz
-            temp_filename_25fps_16khz="$temp_dir/$filenameWithoutExtension-clip-25fps-16khz.mp4"
-            # Run ffmpeg to resample the audio at 16kHz
-            ffmpeg -y -i "$temp_filename_25fps" -ar 16000 -ac 1 "$temp_filename_25fps_16khz"
+                    echo "Changing video $clipFilePath to have 25fps"
+                    # Get the temporary filename for the 25fps video
+                    temp_filename_25fps="$temp_dir/$filenameWithoutExtension-clips/$clipFileNameWithoutExtension-clip-25fps.mp4"
+                    # Run ffmpeg to change the FPS of the input video to 25 and save it to the output file
+                    ffmpeg -y -i "$clipFilePath" -filter:v fps=25 "$temp_filename_25fps"
 
-            frame_size=224
-            echo "Resize frame size to $frame_size by $frame_size"
-            # Get the temporary filename for the video with resized frame size
-            temp_filename_25fps_16khz_resized="$temp_dir/$filenameWithoutExtension-clip-25fps-16khz-resized.mp4"
-            # Run ffmpeg to resize the frame size
-            ffmpeg -y -i "$temp_filename_25fps_16khz" -vf scale=$frame_size:$frame_size "$temp_filename_25fps_16khz_resized"
+                    echo "Changing video $clipFilePath to have 16kHz audio"
+                    # Get the temporary filename for the video with audio in 16kHz
+                    temp_filename_25fps_16khz="$temp_dir/$filenameWithoutExtension-clips/$clipFileNameWithoutExtension-clip-25fps-16khz.mp4"
+                    # Run ffmpeg to resample the audio at 16kHz
+                    ffmpeg -y -i "$temp_filename_25fps" -ar 16000 -ac 1 "$temp_filename_25fps_16khz"
 
-            echo "Running SyncNet"
-            # Run SyncNet on the video
-            python $syncnet --videofile "$temp_filename_25fps_16khz_resized" --tmp_dir syncnet_temp --initial_model $syncnet_model > $temp_filename_syncnet
+                    frame_size=224
+                    echo "Resize frame of $clipFilePath to $frame_size by $frame_size"
+                    # Get the temporary filename for the video with resized frame size
+                    temp_filename_25fps_16khz_resized="$temp_dir/$filenameWithoutExtension-clips/$clipFileNameWithoutExtension-clip-25fps-16khz-resized.mp4"
+                    # Run ffmpeg to resize the frame size
+                    ffmpeg -y -i "$temp_filename_25fps_16khz" -vf scale=$frame_size:$frame_size "$temp_filename_25fps_16khz_resized"
+
+                    echo "Running SyncNet on $clipFilePath"
+                    temp_filename_clip_syncnet="$temp_dir/$filenameWithoutExtension-clips/$clipFileNameWithoutExtension-syncnet.txt"
+                    # Run SyncNet on the single clip
+                    python $syncnet --videofile "$temp_filename_25fps_16khz_resized" --tmp_dir $syncnet_temp --initial_model $syncnet_model > $temp_filename_clip_syncnet
+
+                    # Print the last 3 lines of the output from SyncNet
+                    echo "SyncNet output for $clipFileName:" | tee -a $temp_filename_syncnet
+                    tail -n 3 $temp_filename_clip_syncnet | tee -a $temp_filename_syncnet
+                    # Add blank line
+                    echo "" | tee -a $temp_filename_syncnet
+                fi
+            done
+
         fi    
 
-        # Print the last 3 lines of the output from SyncNet
         echo "SyncNet output for $filename:" | tee -a $report_file
-        tail -n 3 $temp_filename_syncnet | tee -a $report_file
+        echo "=========================================================" | tee -a $report_file
+        cat $temp_filename_syncnet | tee -a $report_file
+        echo "=========================================================" | tee -a $report_file
         # Add blank line
         echo "" | tee -a $report_file
 
